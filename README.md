@@ -50,12 +50,12 @@ These results indicate that the forecasting models achieve a **Good Fit** for pr
 ## **Visualization**  
 ### **Example Results**
 - Aspect-based forecasting trend visualization:
-  ![Aspect Forecasting]([image1_placeholder](https://drive.google.com/uc?id=15e-KvQG_ioCCBZPMuLm5ckTJcwOZOqF-))
-  ![Aspect2 Forecasting]([image2_placeholder](https://drive.google.com/uc?id=1wmeQN4mB5RKYMAnKs40fK6taAlH4W2kB))
+  ![Aspect Forecasting](https://drive.google.com/uc?id=15e-KvQG_ioCCBZPMuLm5ckTJcwOZOqF-)
+  ![Aspect2 Forecasting](https://drive.google.com/uc?id=1wmeQN4mB5RKYMAnKs40fK6taAlH4W2kB)
 
 - Clustering-based trend visualization:
-  ![Clustering Forecasting]([image3_placeholder](https://drive.google.com/uc?id=1CoqF8aCDHfUrhMCe4nbsgoC0X19H8wEW))
-  ![Clustering2 Forecasting]([image4_placeholder](https://drive.google.com/uc?id=1d68B4Mz01zcJDiivIX67QQ9g69o014oc))
+  ![Clustering Forecasting](https://drive.google.com/uc?id=1CoqF8aCDHfUrhMCe4nbsgoC0X19H8wEW)
+  ![Clustering2 Forecasting](https://drive.google.com/uc?id=1d68B4Mz01zcJDiivIX67QQ9g69o014oc)
 
 
 ---
