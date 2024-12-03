@@ -1,5 +1,3 @@
-Berikut adalah template README untuk proyek GitHub Anda:
-
 ---
 
 # **Forecasting IFI Trends per Aspect and per Cluster Using SARIMAX and XGBoost Machine Learning Methods**  
