@@ -1,0 +1,531 @@
+"FullName","JobGradeDesc","DepartmentName","EmployeeCode","DepartmentCode","Email","MobileNumber","Site","DateCreated","Role","Age"
+Robi Kurniawan,Senior Staff,IT BUSINESS APPLICATION,"3922","258",rbkurniawan@aio.co.id,"082310166956",Sukabumi,"2022-09-02 16:25:37",User,27
+Aldi Cahyanugroho,Senior Staff,KAIZEN,"2025","310",acahyanugroho@aio.co.id,"082249397725",Sukabumi,"2022-12-06 10:29:17","Admin,Superadmin",36
+Idah ,Supervisor,CORCOM - IDAH,"0016","237",idah@aio.co.id,"08121838727",Sukabumi,"2023-01-03 20:25:26",Fasilitator,50
+Miftachul Djauhari,Board Of Director,PLANT ADM - MIFTACHUL DJAUHARI,"0546","261",mdjauhari@aio.co.id,"082230439353",Sukabumi,"2023-01-03 20:25:26",Juri,54
+Isfan Mubaidila,Supervisor,PROD SAMIX - ISFAN MUBAIDILA,"0551","280",imubaidila@aio.co.id,"08176075314",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Juri",45
+Roynald Jhon Beda,Supervisor,EHS - ROYNALD JHON BEDA,"0558","241",rbeda@aio.co.id,"081297428486",Sukabumi,"2023-01-03 20:25:26",Fasilitator,47
+Saiful Anwar,Supervisor,PROD SAMIX - SAIFUL ANWAR,"0559","281",sanwar@aio.co.id,"085218391974",Sukabumi,"2023-01-03 20:25:26",Fasilitator,50
+Novi Zakaria,Supervisor,SCM - NOVI ZAKARIA,"0563","303",nzakaria@aio.co.id,"083811351696",Sukabumi,"2023-01-03 20:25:26",Fasilitator,44
+Eka Surahmat,Supervisor,PROD CANPET - EKA SURAHMAT,"0566","278",esurahmat@aio.co.id,"085284325255",Sukabumi,"2023-01-03 20:25:26",Fasilitator,41
+Bayu Herlambang,Supervisor,PROD GBL - BAYU HERLAMBANG,"0571","283",bherlambang@aio.co.id,"089646365110",Sukabumi,"2023-01-03 20:25:26",Fasilitator,45
+Cecep Suhendar,Supervisor,PROD CANPET - CECEP SUHENDAR,"0592","277",Chepsuhe2@gmail.co.id,"089638466660",Sukabumi,"2023-01-03 20:25:26",Fasilitator,48
+Indra Setiyanto,Supervisor,EHS - INDRA SETIYANTO,"0618","240",isetiyanto@aio.co.id,"089608884172",Sukabumi,"2023-01-03 20:25:26",Fasilitator,53
+Aditya Pamungkas,Supervisor,PROCUREMENT - ADITYA PAMUNGKAS,"0621","263",apamungkas@aio.co.id,"085782308011",Sukabumi,"2023-01-03 20:25:26",Fasilitator,40
+Hendra Sukandar,Supervisor,SCM - HENDRA SUKANDAR,"0632","300",Hsukandar88@gmail.com,"082210259219",Sukabumi,"2023-01-03 20:25:26",Fasilitator,40
+Dwi Novianto,Asst. Manager,ENG - DWI NOVIANTO,"0987","245",dnovianto@aio.co.id,"08111142011",Sukabumi,"2023-01-03 20:25:26",Fasilitator,42
+Much Muchibbin,Supervisor,ENG - MUCH. MUCHIBBIN,"1004","246",mmuchibbin@aio.co.id,"085213781825",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Technical Fasilitator",43
+Agung Kusumah Wardana,Asst. Manager,PROD GBL -  AGUNG KUSUMAH WARDANA,"1019","285",awardana@aio.co.id,"089609109854",Sukabumi,"2023-01-03 20:25:26",Fasilitator,38
+Johan Ronaldo Sitompul,Supervisor,PROD OC3 - JOHAN RONALDO,"1021","290",dodo.intermilan.it@gmail.com,"085793985000",Sukabumi,"2023-01-03 20:25:26",Fasilitator,38
+Mardiati Syalfina,Asst. Manager,SCM - FAUZI NUR ADIANTO,"1048","302",msyalfina@aio.co.id,"081911703888",Sukabumi,"2023-01-03 20:25:26",Juri,39
+Sarwo Edy Wibowo Sitompul,Asst. Manager,QA - YOSEP RIZA IRFANI,"1062","297",ssitompul@aio.co.id,"081386026819",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Juri",39
+Marwan Panisa,Asst. Manager,ENG - MARWAN PANISA,"1067","250",mpanisa@aio.co.id,"085217607187",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Technical Fasilitator",43
+Erry Miharyanto Wicaksono,Supervisor,ENG - ERRY MIHARYANTO WICAKSONO,"1092","247",ewicaksono@aio.co.id,"081330066770",Sukabumi,"2023-01-03 20:25:26",Fasilitator,38
+Sopingi ,Supervisor,PROD - OC3,"1094","286",sopingi@aio.co.id,"085711997997",Sukabumi,"2023-01-03 20:25:26",Juri,41
+Swastiko Dwi Cahyono,Asst. Manager,QUALITY ASSURANCE,"1109","292",swastiko@aio.co.id,"082110919915",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Juri",43
+Muhammad Ulul Al Baab,Asst. Manager,PROD - AL 4,"1226","268",malbaab@aio.co.id,"081334866758",Sukabumi,"2023-01-03 20:25:26","Juri,Fasilitator",41
+Asih Widya Utami,Asst. Manager,HCD,"1244","255",awutami@aio.co.id,"085710007192",Sukabumi,"2023-01-03 20:25:26",Fasilitator,39
+Tatang Sunarya,Supervisor,PROD AL 4 - TATANG SUNARYA,"1280","273",tsunarya@aio.co.id,"081286207421",Sukabumi,"2023-01-03 20:25:26",Fasilitator,39
+Nurdiyan Kristiawan,Supervisor,QA - NURDIYAN KRISTIAWAN,"1293","296",nkristiawan@aio.co.id,"08562337655",Sukabumi,"2023-01-03 20:25:26",Fasilitator,38
+Suhendra Gunawan,Supervisor,ENG - SUHENDRA GUNAWAN,"1294","244",sgunawan@aio.co.id,"081296039024",Sukabumi,"2023-01-03 20:25:26",Fasilitator,52
+Dede Saputra,Supervisor,PROD OC3 - DEDE SAPUTRA,"1342","289",dsaputra@aio.co.id,"087883560627",Sukabumi,"2023-01-03 20:25:26",Fasilitator,38
+Didin ,Supervisor,PROD ADM & OT - DIDIN,"1352","267",didin@aio.co.id,"085884880810",Sukabumi,"2023-01-03 20:25:26",Fasilitator,40
+Dody Kusuma Wardhani,Asst. Manager,IT INFRA STRUCTURE & INDUSTRlAL,"1409","259",dkusumawardhani@aio.co.id,"08111149237",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Technical Fasilitator,Juri",44
+Andry Billy Wirawan,Supervisor,PROD AL 4 - ANDRY BILLY WIRAWAN,"1423","269",abilly@aio.co.id,"08111115955",Sukabumi,"2023-01-03 20:25:26",Fasilitator,44
+Tri Yatmoko,Supervisor,PROD AL 4 - TRI YATMOKO,"1477","272",triyatmoko@aio.co.id,"081320002979",Sukabumi,"2023-01-03 20:25:26",Fasilitator,36
+Akhmad Fakih,Supervisor,PROD OC3 - AKHMAD FAQIH,"1534","287",faqihakh30@gmail.com,"081212252200",Sukabumi,"2023-01-03 20:25:26",Fasilitator,40
+Feri Aryanto,Supervisor,ENG - FERI ARYANTO,"1585","248",oectora_f@yahoo.co.id,"085697358154",Sukabumi,"2023-01-03 20:25:26",Fasilitator,41
+Muhammad Syarofuddin,Supervisor,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"1641","270",msyarofuddin@aio.co.id,"08157767251",Sukabumi,"2023-01-03 20:25:26",Fasilitator,39
+Asmada ,Supervisor,PROD OC3 - ASMADA,"1688","288",asmada@aio.co.id,"085603999683",Sukabumi,"2023-01-03 20:25:26",Fasilitator,43
+Richi Ries Riyatna,Supervisor,PROD GBL - RICHI RIES RIYATNA,"1817","284",rriyatna@aio.co.id,"085811852578",Sukabumi,"2023-01-03 20:25:26",Fasilitator,37
+Semdy Ramadi,Supervisor,GA & LEGAL - SEMDY RAMADI,"1827","254",sramadi@aio.co.id,"085759516842",Sukabumi,"2023-01-03 20:25:26",Fasilitator,37
+Siti Nurrohmah Mahendrasari,Asst. Manager,TECHNICAL - NIA WAHYU DWI HANDAYANI,"1961","306",smahendrasari@aio.co.id,"081284425997",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Juri",35
+Shanty Kusumawardhany Santoso,Supervisor,PROCUREMENT - SHANTY KUSUMAWARDHANY SANTOSO,"1997","265",ssantoso@aio.co.id,"081318711257",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Juri",37
+Atang Rachmat,Supervisor,PROCUREMENT - ATANG RACHMAT,"2032","264",arachmat@aio.co.id,"085217297910",Sukabumi,"2023-01-03 20:25:26",Fasilitator,53
+Haris Febriansyah,Supervisor,QA - HARIS FEBRIANSYAH,"2130","295",hfebriansyah@aio.co.id,"08561070522",Sukabumi,"2023-01-03 20:25:26",Fasilitator,38
+A Hafidh Faidhoni,Supervisor,FINANCE & ACCOUNTING - A. HAFIDH FAIDHONI,"2152","252",afaidhoni@aio.co.id,"085722079140",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Technical Fasilitator,Juri",36
+Dimas Permadi,Supervisor,QA - DIMAS PERMADI,"2193","294",permadi_dim45@yahoo.co.id,"089657577987",Sukabumi,"2023-01-03 20:25:26",Fasilitator,37
+Ikhsan Dinyar Kusdiana,Supervisor,ENG - IKHSAN DINYAR KUSDIANA,"2234","249",ikusdiana@aio.co.id,"087722833987",Sukabumi,"2023-01-03 20:25:26",Fasilitator,36
+Akbar Taqwa A,Supervisor,SCM - AKBAR TAQWA,"2626","299",ataqwa@aio.co.id,"085759570161",Sukabumi,"2023-01-03 20:25:26",Fasilitator,35
+Yuyun Sunandar,Supervisor,ENG - YUYUN SUNANDAR,"2842","243",ysunandar@aio.co.id,"082211944908",Sukabumi,"2023-01-03 20:25:26",Fasilitator,37
+Adhy Septa Wicaksana,Supervisor,PROD CANPET - ADHY SEPTA WICAKSANA,"3201","275",awicaksana@aio.co.id,"082125315555",Sukabumi,"2023-01-03 20:25:26",Fasilitator,39
+Hilman Abdurrahman Achmad,Supervisor,IT BUSINESS APPLICATION,"3684","258",hachmad@aio.co.id,"082275540539",Sukabumi,"2023-01-03 20:25:26",Fasilitator,29
+Kletus Lebi,Asst. Manager,SCM - KLETUS LEBI,"0029","301",klebi@aio.co.id,"081382364846",Sukabumi,"2023-01-03 20:25:26","Juri,Fasilitator",55
+Pramono Wibowo,Manager,GA & LEGAL,"0124","253",pwibowo@aio.co.id,"081296601554",Sukabumi,"2023-01-03 20:25:26",Juri,55
+Revina Ratna Rumiyanti,Senior Manager,QUALITY ASSURANCE,"0498","292",rrumiyanti@aio.co.id,"08159911434",Sukabumi,"2023-01-03 20:25:26",Juri,48
+Fitri Latifah,Manager,QUALITY ASSURANCE,"0501","292",flatifah@aio.co.id,"08121105446",Sukabumi,"2023-01-03 20:25:26",Juri,43
+Pratiwi Juniarsih,Board Of Director,QUALITY ASSURANCE,"0545","292",pjuniarsih@aio.co.id,"08121034748",Sukabumi,"2023-01-03 20:25:26",Juri,60
+Ujang Supian,Asst. Manager,HCD,"0560","255",usupian@aio.co.id,"08111141337",Sukabumi,"2023-01-03 20:25:26",Juri,47
+Nanang Sugiantoro,Manager,ENGINEERING,"0612","242",nsugiantoro79@gmail.com,"081384462122",Sukabumi,"2023-01-03 20:25:26",Juri,45
+Dian Alpiansyah,Asst. Manager,PROD - CANPET,"0630","274",dalpiansyah@aio.co.id,"081381410100",Sukabumi,"2023-01-03 20:25:26",Juri,38
+Teguh Setiyawan,Asst. Manager,TECHNICAL,"0760","305",tsetiyawan@aio.co.id,"081315565085",Sukabumi,"2023-01-03 20:25:26","Juri,Fasilitator",43
+Setijawan Budhiharto,Asst. Manager,SCM,"0819","298",sbudiharto@aio.co.id,"081219454287",Sukabumi,"2023-01-03 20:25:26",Juri,54
+Offan Effendy,Asst. Manager,SCM - BANI RUMPAKA,"0940","304",oeffendy@aio.co.id,"081808147466",Sukabumi,"2023-01-03 20:25:26",Juri,39
+Satria Yoga Permana,Asst. Manager,TECHNICAL,"1060","305",spermana@aio.co.id,"085693602470",Sukabumi,"2023-01-03 20:25:26",Juri,44
+Sigit Wiratno,Manager,TECHNICAL,"1061","305",swiratno@aio.co.id,"082111219220",Sukabumi,"2023-01-03 20:25:26",Juri,40
+Naoval .,Asst. Manager,TECHNICAL,"1101","305",naoval@aio.co.id,"081514312374",Sukabumi,"2023-01-03 20:25:26",Juri,51
+Naoval .,Asst. Manager,TECHNICAL,"1101","305",naoval@aio.co.id,"081514312374",Sukabumi,"2023-01-03 20:25:26",Juri,51
+Naoval .,Asst. Manager,TECHNICAL,"1101","305",naoval@aio.co.id,"081514312374",Sukabumi,"2023-01-03 20:25:26",Juri,51
+Naoval .,Asst. Manager,TECHNICAL,"1101","305",naoval@aio.co.id,"081514312374",Sukabumi,"2023-01-03 20:25:26",Juri,51
+Naoval ,Asst. Manager,TECHNICAL,"1101","305",naoval@aio.co.id,"081514312374",Sukabumi,"2023-01-03 20:25:26",Juri,51
+Naoval ,Asst. Manager,TECHNICAL,"1101","305",naoval@aio.co.id,"081514312374",Sukabumi,"2023-01-03 20:25:26",Juri,51
+Dewi Sundari Anugrahwati,Asst. Manager,GA & LEGAL,"1135","253",danugrahwati@aio.co.id,"081310188581",Sukabumi,"2023-01-03 20:25:26",Juri,37
+Moh Mohaimin,Manager,PROD - AL 4,"1188","268",mmuhaimin@aio.co.id,"087820708137",Sukabumi,"2023-01-03 20:25:26",Juri,48
+Heryansyah ,Asst. Manager,PROD - OC3,"1208","286",heryansyah@aio.co.id,"08123393216",Sukabumi,"2023-01-03 20:25:26",Juri,43
+Heru Setiyawan,Asst. Manager,ENGINEERING,"1228","242",hsetiyawan@aio.co.id,"081318121835",Sukabumi,"2023-01-03 20:25:26",Juri,47
+Wheny Utoyo,Senior Manager,PLANT,"1242","260",wutoyo@aio.co.id,"08123300486",Sukabumi,"2023-01-03 20:25:26",Juri,54
+Kiki Dian Tresnawati,Asst. Manager,PROD - GBL,"1362","282",ktresnawati@aio.co.id,"081310077630",Sukabumi,"2023-01-03 20:25:26",Juri,42
+Maruli Samuel Pasaribu,Asst. Manager,FINANCE & ACCOUNTING,"1862","251",mpasaribu@aio.co.id,"0811532662",Sukabumi,"2023-01-03 20:25:26",Juri,49
+Yana Sopian Hidayat,Asst. Manager,ENGINEERING,"2485","242",yhidayat@aio.co.id,"08568307449",Sukabumi,"2023-01-03 20:25:26",Juri,42
+Mugiyono ,Asst. Manager,EHS - MUGIYONO,"3068","239",mugiyono@aio.co.id,"08176623499",Sukabumi,"2023-01-03 20:25:26","Juri,Fasilitator",50
+Sarmadi ,Senior Staff,SCM - NOVI ZAKARIA,"0065","303",sarmadi@aio.co.id,"08174831921",Sukabumi,"2023-01-03 20:25:26",User,53
+Mochamad Hidayat,Senior Staff,ENG - YUYUN SUNANDAR,"0550","243",mhidayat@aio.co.id,"081319900500",Sukabumi,"2023-01-03 20:25:26",User,47
+Aman Santoso,Senior Staff,PROD SAMIX - ISFAN MUBAIDILA,"0552","280",asantoso@aio.co.id,"0895403307600",Sukabumi,"2023-01-03 20:25:26",User,51
+Djoko Iswanto,Senior Staff,SCM - BANI RUMPAKA,"0557","304",diswanto@aio.co.id,"08176781209",Sukabumi,"2023-01-03 20:25:26",User,54
+Wahyu Sujoko,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"0561","276",Wahyusujoko74@gmail.com,"087820945400",Sukabumi,"2023-01-03 20:25:26",User,52
+Ujang Wildan,Senior Staff,PROD SAMIX - ISFAN MUBAIDILA,"0587","280",ujangwildan18@gmail.com,"082216226728",Sukabumi,"2023-01-03 20:25:26",User,43
+Ruli Maulana,Staff,PROD SAMIX - ISFAN MUBAIDILA,"0588","280",Rulimaulana80.rm@gmail.com,"081316179030",Sukabumi,"2023-01-03 20:25:26",User,44
+Dindin Nurdiansyah,Senior Staff,PROD SAMIX - ISFAN MUBAIDILA,"0589","280",dinur483@gmail.com,"082114823690",Sukabumi,"2023-01-03 20:25:26",User,45
+Heri Supriatna,Staff,PROD SAMIX - ISFAN MUBAIDILA,"0590","280",Herisprtn5@gmail.com,"085771092830",Sukabumi,"2023-01-03 20:25:26",User,44
+Supriyadi ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"0591","280",Supriyadiodod@gmail.com,"082122860451",Sukabumi,"2023-01-03 20:25:26",User,46
+Tonny Aries Kuswandana,Senior Staff,SCM - AKBAR TAQWA,"0614","299",tovility2018@gmail.com,"081389443349",Sukabumi,"2023-01-03 20:25:26",User,53
+Surya Mega Irawan,Staff,SCM - AKBAR TAQWA,"0615","299",Lugiaarva@gmail.com,"081285041074",Sukabumi,"2023-01-03 20:25:26",User,51
+Budi Gunawan,Senior Staff,PROD CANPET - EKA SURAHMAT,"0619","278",Budigunawan2909@gmail.com,"081217618358",Sukabumi,"2023-01-03 20:25:26",User,52
+Denny Firmansyah,Senior Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"0620","270",dfirmansyahaio@gmail.com,"082113026975",Sukabumi,"2023-01-03 20:25:26",User,42
+Saprudin ,Senior Staff,PROD ADM & OT - DIDIN,"0625","267",saprudin@aio.co.id,"081280066473",Sukabumi,"2023-01-03 20:25:26",User,48
+Dede Apriatna,Staff,PROD CANPET - CECEP SUHENDAR,"0629","277",d2apriatna@gmail.com,"0895364666359",Sukabumi,"2023-01-03 20:25:26",User,41
+Lukman Nurhakim,Senior Staff,PROD CANPET - EKA SURAHMAT,"0634","278",lukman070183@gmail.com,"085655369406",Sukabumi,"2023-01-03 20:25:26",User,41
+Sachrul Mukarrom,Senior Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"0637","276",sachrul.mukarrom@gmail.com,"081383572689",Sukabumi,"2023-01-03 20:25:26",User,41
+Wasis Eko Satriyo,Senior Staff,PROD SAMIX - ISFAN MUBAIDILA,"0761","280",wekosatriyo@gmail.com,"081572279158",Sukabumi,"2023-01-03 20:25:26",User,53
+Imran ,Senior Staff,ENG - MARWAN PANISA,"0780","250",imran@aio.co.id,"085728515427",Sukabumi,"2023-01-03 20:25:26",User,46
+Yudiana Yusuf,Staff,ENG - YUYUN SUNANDAR,"0785","243",yudianayusuf123@gmail.com,"081315495850",Sukabumi,"2023-01-03 20:25:26",User,46
+Saepuloh ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"0825","280",uyoh78@gmail.com,"087773527655",Sukabumi,"2023-01-03 20:25:26",User,46
+Febri Erwanto,Senior Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"1075","269",fibi.erw7@gmail.com,"081310997169",Sukabumi,"2023-01-03 20:25:26",User,40
+Jainu Arifin,Senior Staff,ENG - SUHENDRA GUNAWAN,"1105","244",jainu.arifin@gmail.com,"08991729922",Sukabumi,"2023-01-03 20:25:26",User,38
+Herry Hendrawan,Senior Staff,QA - HARIS FEBRIANSYAH,"1112","295",hhendrawan@aio.co.id,"085204065388",Sukabumi,"2023-01-03 20:25:26",User,43
+Bambang Dwi Kurniawan,Supervisor,PROD OC3 - BAMBANG DK,"1117","291",bkurniawan@aio.co.id,"081334429297",Sukabumi,"2023-01-03 20:25:26",Fasilitator,42
+Asep Abdul Aziz Amarullah,Senior Staff,PROD OC3 - AKHMAD FAQIH,"1259","287",amarullahasep@gmail.com,"085860975755",Sukabumi,"2023-01-03 20:25:26",User,41
+Adriansyah S,Senior Staff,PROD CANPET - EKA SURAHMAT,"1316","278",adriansyah@aio.co.id,"08999949924",Sukabumi,"2023-01-03 20:25:26",User,41
+Erick Hendiana,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"1351","276",Ehend223@gmail.com,"085217736194",Sukabumi,"2023-01-03 20:25:26",User,44
+Ipul Saepul Muhlis,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"1354","275",ipulsm.drp@gmail.com,"085861882622",Sukabumi,"2023-01-03 20:25:26",User,43
+Halim Perdana Kusuma,Senior Staff,PROD CANPET - EKA SURAHMAT,"1370","278",hpkusuma1976@gmail.com,"081382061919",Sukabumi,"2023-01-03 20:25:26",User,48
+Abdul Wahid,Senior Staff,PROD CANPET - EKA SURAHMAT,"1371","278",Aw.cakrek@yahoo.com,"085794247802",Sukabumi,"2023-01-03 20:25:26",User,39
+Odem Hitawan,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"1395","275",odem.hitawan83@gmail.com,"082298124362",Sukabumi,"2023-01-03 20:25:26",User,42
+Iman Hermawan,Senior Staff,PROD CANPET - EKA SURAHMAT,"1396","278",Imanhermawann@gmail.com,"085280552585",Sukabumi,"2023-01-03 20:25:26",User,42
+Ujang Hermawan,Staff,PROD CANPET - CECEP SUHENDAR,"1405","277",ujanghermawan58@gmail.com,"081252048064",Sukabumi,"2023-01-03 20:25:26",User,45
+Feri Andriansyah,Senior Staff,PROD CANPET - CECEP SUHENDAR,"1416","277",FERIOTOYBALITUNG@GMAIL.COM,"081297063345",Sukabumi,"2023-01-03 20:25:26",User,43
+Abdurrachman ,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"1417","276",Omencaser@gmail.com,"0895405450807",Sukabumi,"2023-01-03 20:25:26",User,40
+Endri Triyanto,Senior Staff,PROD OC3 - ASMADA,"1642","288",endri.3anto@gmail.com,"085647007515",Sukabumi,"2023-01-03 20:25:26",User,38
+Cece Supriadi,Staff,PROD CANPET - EKA SURAHMAT,"1687","278",cecesupriadi37@gmail.com,"085759594183",Sukabumi,"2023-01-03 20:25:26",User,43
+Ganda Purnama,Senior Staff,PROD OC3 - JOHAN RONALDO,"1713","290",ganpurnama@gmail.com,"08122221307",Sukabumi,"2023-01-03 20:25:26",User,38
+Danang Suto Hapsoro,Staff,ENG - MARWAN PANISA,"1718","250",madhal_21@yahoo.com,"081292761751",Sukabumi,"2023-01-03 20:25:26",User,38
+Toni Irwana,Supervisor,FINANCE & ACCOUNTING - TONI IRWANA,"1732","312",tirwana@aio.co.id,"089530613203",Sukabumi,"2023-01-03 20:25:26",Fasilitator,39
+Wildan Ilham Ginanjar,Senior Staff,QA - DIMAS PERMADI,"1769","294",wildanilhamginanjar@gmail.com,"089657804994",Sukabumi,"2023-01-03 20:25:26",User,37
+Nana Priana,Senior Staff,PROD OC3 - AKHMAD FAQIH,"1797","287",dafimichrodz2015@gmail.com,"081808234844",Sukabumi,"2023-01-03 20:25:26",User,49
+Endi Kusnadi,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"1798","275",endikusnadi36@gmail.com,"085793450416",Sukabumi,"2023-01-03 20:25:26",User,43
+Dedi Irawan,Senior Staff,PROD OC3 - DEDE SAPUTRA,"1799","289",idedy1987@gmail.com,"0895349961908",Sukabumi,"2023-01-03 20:25:26",User,37
+Eris Riswandi,Senior Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"1801","269",erisriswandi3@gmail.com,"087721655177",Sukabumi,"2023-01-03 20:25:26",User,34
+Okta Sapta Wulandra,Senior Staff,PROD OC3 - DEDE SAPUTRA,"1802","289",oktaspt@gmail.com,"085794032808",Sukabumi,"2023-01-03 20:25:26",User,42
+Sandi ,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"1803","270",Aresandi89@gmail.com,"081297238189",Sukabumi,"2023-01-03 20:25:26",User,35
+M Hilman S,Senior Staff,PROD OC3 - ASMADA,"1804","288",Hilmanmuhamad74@gmail.com,"081387483588",Sukabumi,"2023-01-03 20:25:26",User,43
+Sugih Sanjaya,Senior Staff,PROD OC3 - AKHMAD FAQIH,"1806","287",sanjayasugih202@gmail.com,"082114823787",Sukabumi,"2023-01-03 20:25:26",User,38
+Ari Umbara,Staff,PROD CANPET - EKA SURAHMAT,"1807","278",a.umbara86@gmail.com,"085721669096",Sukabumi,"2023-01-03 20:25:26",User,38
+Kinar Sunarya,Senior Staff,PROD AL 4 - TRI YATMOKO,"1808","272",Knrsunarya@gmail.co,"083818144664",Sukabumi,"2023-01-03 20:25:26",User,42
+Agus Setiawan,Senior Staff,PROD GBL - BAYU HERLAMBANG,"1809","283",agusdoang345@gmail.com,"085861396229",Sukabumi,"2023-01-03 20:25:26",User,39
+Deni Ridwan,Senior Staff,PROD OC3 - AKHMAD FAQIH,"1811","287",deniridone52@gmail.com,"085659102726",Sukabumi,"2023-01-03 20:25:26",User,40
+Deden Jaenudin,Staff,PROD OC3 - ASMADA,"1813","288",dedenjaenysin099@gmail.com,"085314006845",Sukabumi,"2023-01-03 20:25:26",User,34
+Unang Surahman,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1816","280",urahman5@gmail.com,"081380090789",Sukabumi,"2023-01-03 20:25:26",User,37
+Acep Supriyadi,Senior Staff,PROD CANPET - EKA SURAHMAT,"1819","278",acepsupriyadi59@gmail.com,"081380885872",Sukabumi,"2023-01-03 20:25:26",User,42
+Fatkhul Mujib,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1821","280",fmujib599@gmail.com,"085774259415",Sukabumi,"2023-01-03 20:25:26",User,50
+Ridwan ,Staff,PROD CANPET - CECEP SUHENDAR,"1822","277",ridwanbatak6@gmail.com,"082298142178",Sukabumi,"2023-01-03 20:25:26",User,43
+Ujang Mubarok,Staff,PROD CANPET - EKA SURAHMAT,"1823","278",umubarok23@gmail.com,"081546833107",Sukabumi,"2023-01-03 20:25:26",User,38
+Cepy Rahmat,Senior Staff,PROD GBL - RICHI RIES RIYATNA,"1824","284",cepyrahmat2815@gmail.com,"085793820001",Sukabumi,"2023-01-03 20:25:26",User,39
+Irnawan Ardiansyah,Senior Staff,PROD GBL - RICHI RIES RIYATNA,"1826","284",IRZHONESTA@GMAIL.COM,"082280474755",Sukabumi,"2023-01-03 20:25:26",User,39
+Ihin Solihin,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1828","280",Yasminarabella98@gmail.com,"081210773427",Sukabumi,"2023-01-03 20:25:26",User,41
+Arip Supriatna,Staff,PROD CANPET - CECEP SUHENDAR,"1829","277",aripsupriatna8605@gmail.com,"085216125549",Sukabumi,"2023-01-03 20:25:26",User,43
+Retty Risqi Aprilinda,Senior Staff,SCM -  LUKMAN HAKIM,"1861","313",raprilinda@aio.co.id,"081331000548",Sukabumi,"2023-01-03 20:25:26",User,39
+Badar Aulia,Senior Staff,QA - HARIS FEBRIANSYAH,"1883","295",aa_badar@yahoo.com,"085216595300",Sukabumi,"2023-01-03 20:25:26",User,41
+N Vera Astrianingsih,Senior Staff,FINANCE & ACCOUNTING - TONI IRWANA,"1915","312",vastrianingsih@aio.co.id,"085793990192",Sukabumi,"2023-01-03 20:25:26",User,32
+Jodi Jaenal Arifin,Senior Staff,SCM -  LUKMAN HAKIM,"1916","313",jarifin@aio.co.id,"0895337295222",Sukabumi,"2023-01-03 20:25:26",User,41
+Dede Rizwan,Staff,PROD OC3 - ASMADA,"1962","288",deriz2369@gmail.com,"081381857324",Sukabumi,"2023-01-03 20:25:26",User,40
+Herra Irawan,Senior Staff,PROD GBL - RICHI RIES RIYATNA,"1974","284",herrairawan87@gmail.com,"081315072037",Sukabumi,"2023-01-03 20:25:26",User,37
+Suradi ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1976","280",suradi.ragil01@gmail.com,"087873612451",Sukabumi,"2023-01-03 20:25:26",User,35
+Ari Ilhamsyah,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1977","280",ariilhamsyah@gmail.com,"089675281578",Sukabumi,"2023-01-03 20:25:26",User,36
+Rahmat Mustaspa,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1978","280",Kangrahmat98@gmail.com,"081928691868",Sukabumi,"2023-01-03 20:25:26",User,34
+Angga Dwi Cahya Mulyadi,Senior Staff,EHS - MUGIYONO,"1980","239",amulyadi@aio.co.id,"081283890233",Sukabumi,"2023-01-03 20:25:26",User,36
+Ridwan ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"1981","280",Farizgaisan17@gmail.com,"085795429883",Sukabumi,"2023-01-03 20:25:26",User,38
+Mohammad Rifai,Staff,PROD GBL - RICHI RIES RIYATNA,"1982","284",rifai.rafa@gmail.com,"085217739828",Sukabumi,"2023-01-03 20:25:26",User,33
+Muhtar Fariz,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2002","280","1234567@muslim.com","081284260593",Sukabumi,"2023-01-03 20:25:26",User,33
+Uday Supandi,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2004","280",udaysupandi94@gmail.com,"085294860293",Sukabumi,"2023-01-03 20:25:26",User,44
+Riki Irawan,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2005","280",rikiirawan0897@gmail.com,"081218823141",Sukabumi,"2023-01-03 20:25:26",User,44
+Aldi Wardiana,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2006","280",aldiwe89@gmail.com,"085721097669",Sukabumi,"2023-01-03 20:25:26",User,34
+Asep Rahmat,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2007","280",dzikrinaura734@gmail.com,"082123163806",Sukabumi,"2023-01-03 20:25:26",User,34
+Beni Hermawan,Supervisor,QA -  BENI HERMAWAN,"2016","319",bhermawan@aio.co.id,"08111742226",Sukabumi,"2023-01-03 20:25:26",Fasilitator,37
+Baskoro Priyudinto,Senior Staff,QA - LIA CHOIRUNNISA,"2033","293",bskro.knight07@gmail.com,"085658973554",Sukabumi,"2023-01-03 20:25:26",User,37
+Ruslan Arif Permana,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"2037","270",ruslanarif98@gmail.com,"085794962827",Sukabumi,"2023-01-03 20:25:26",User,42
+Gumelar ,Staff,PROD OC3 - AKHMAD FAQIH,"2038","287",gumelardyawiguna@gmail.com,"085773716392",Sukabumi,"2023-01-03 20:25:26",User,38
+Fahmi Gumilar,Staff,PROD CANPET - CECEP SUHENDAR,"2040","277",Fgumilar2282@gmail.com,"081210905275",Sukabumi,"2023-01-03 20:25:26",User,42
+Ujang Samsudin,Staff,PROD OC3 - JOHAN RONALDO,"2041","290",usyamsudin2041@gmail.com,"081317019456",Sukabumi,"2023-01-03 20:25:26",User,45
+Feri Frediansyah,Senior Staff,PROD SAMIX - ISFAN MUBAIDILA,"2042","280",ferifreddjp@gmail.com,"089601678357",Sukabumi,"2023-01-03 20:25:26",User,45
+Muntoha ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2043","280",Kodirtea457@gmail.com,"083875660258",Sukabumi,"2023-01-03 20:25:26",User,45
+Ajum ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2044","280",ajumajum338@gmail.com,"081394796499",Sukabumi,"2023-01-03 20:25:26",User,41
+Dini Wati Simanullang,Senior Staff,ENG - DWI NOVIANTO,"2052","245",dsimanullang@aio.co.id,"085780057066",Sukabumi,"2023-01-03 20:25:26",User,36
+Istazibu Gustining Wangi,Staff,SCM - NOVI ZAKARIA,"2062","303",iwangi@aio.co.id,"081283333114",Sukabumi,"2023-01-03 20:25:26",User,33
+Dodi ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2063","280",Dodigama01@gmail.com,"08990899189",Sukabumi,"2023-01-03 20:25:26",User,37
+Sandi Rismawan,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2064","280",sandirismawan1990@gmail.com,"081282284689",Sukabumi,"2023-01-03 20:25:26",User,34
+Ujang Taufiq,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2065","276",uta229@gmail.com,"081298371337",Sukabumi,"2023-01-03 20:25:26",User,36
+Mohamad Taufik Ardian,Senior Staff,PROD OC3 - JOHAN RONALDO,"2066","290",Khalisardian@gmail.com,"081373333919",Sukabumi,"2023-01-03 20:25:26",User,38
+Bunyamin ,Senior Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2069","275",bunyamin@aio.co.id,"081288161444",Sukabumi,"2023-01-03 20:25:26",User,40
+Taufan Firdaus,Senior Staff,PROD OC3 - DEDE SAPUTRA,"2082","289",Taufan.firdaus21@gmail.com,"08982296181",Sukabumi,"2023-01-03 20:25:26",User,36
+Deza Ariffandy,Staff,PROD AL 4 - TRI YATMOKO,"2083","272",dezaarta@gmail.com,"085269622271",Sukabumi,"2023-01-03 20:25:26",User,36
+Skolastika Chrisanti,Supervisor,PLANT ADM - MIFTACHUL DJAUHARI,"2085","261",schrisanti@aio.co.id,"081319370808",Sukabumi,"2023-01-03 20:25:26",Fasilitator,36
+Bajrah ,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2088","275",bbajrah@gmail.com,"085723695060",Sukabumi,"2023-01-03 20:25:26",User,41
+Hadi Rahman Hakim,Staff,PROD OC3 - DEDE SAPUTRA,"2089","289",Hadinerazzuri1908@gmail.com,"081288370800",Sukabumi,"2023-01-03 20:25:26",User,36
+Anjas Asmara,Staff,PROD OC3 - AKHMAD FAQIH,"2091","287",Juno.tornado@gmail.com,"085659544645",Sukabumi,"2023-01-03 20:25:26",User,41
+Fadli Muhammad Iqbal,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2093","280",fadlyhafiza@gmail.com,"0895366359743",Sukabumi,"2023-01-03 20:25:26",User,34
+Yosep Riza Irfani,Supervisor,QA - YOSEP RIZA IRFANI,"2095","297",yosepriza@gmail.com,"082313311333",Sukabumi,"2023-01-03 20:25:26",Fasilitator,36
+Rizki Hidayatullah,Staff,QA -  BENI HERMAWAN,"2096","319",rz.hidayatullah@gmail.com,"082210540646",Sukabumi,"2023-01-03 20:25:26",User,37
+Muhamad Ramdan,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2101","280",Dhani_ramadhan68@yahoo.co.id,"082118131867",Sukabumi,"2023-01-03 20:25:26",User,34
+Ogi Hari Maulus,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2102","280",Ogiharimaulus78@gmail.com,"081584331479",Sukabumi,"2023-01-03 20:25:26",User,30
+Randitia Warman,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2103","280",radityawarman013@gmail.com,"081911872424",Sukabumi,"2023-01-03 20:25:26",User,33
+Ruswandi ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2104","280",Darusruswan10@gmail.com,"082190772933",Sukabumi,"2023-01-03 20:25:26",User,35
+Eman Suherman,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2105","280",Akayslow89@gmail.com,"088801206082",Sukabumi,"2023-01-03 20:25:26",User,45
+Nurhasanudin ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2106","280",bondan.idlan@gmail.com,"08997557357",Sukabumi,"2023-01-03 20:25:26",User,38
+Anwar ,Staff,PROD CANPET - EKA SURAHMAT,"2107","278",awan92379@gmail.com,"085721924600",Sukabumi,"2023-01-03 20:25:26",User,38
+Baesusi ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2108","280",Baesusi1311@gmail.com,"085772471702",Sukabumi,"2023-01-03 20:25:26",User,44
+Elan Maulana,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2111","280",abahgo123@gmail.com,"089682962580",Sukabumi,"2023-01-03 20:25:26",User,38
+Ujang Radiansyah,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2112","280",njenkradiansyah77@gmail.com,"081288984658",Sukabumi,"2023-01-03 20:25:26",User,34
+Ujang Suardi,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2113","280",ujang.suardi@gmail.com,"085862225661",Sukabumi,"2023-01-03 20:25:26",User,37
+Agus Hermawan,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2114","276",agushermawan021977@gmail.com,"081381332915",Sukabumi,"2023-01-03 20:25:26",User,47
+Abas ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2115","280",Arielabas620@gmail.com,"0895619051077",Sukabumi,"2023-01-03 20:25:26",User,34
+Anggi Ahmad Saputra,Staff,PROD GBL - RICHI RIES RIYATNA,"2116","284",anggiahmad23@gmail.com,"082121207070",Sukabumi,"2023-01-03 20:25:26",User,39
+Rohman Muhliza,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2118","280",rmuhliza@gmail.com,"089696196928",Sukabumi,"2023-01-03 20:25:26",User,32
+Aringgi Irawan,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2119","280",aringgiirawan24@gmail.com,"082125637894",Sukabumi,"2023-01-03 20:25:26",User,32
+Muhamad Rizan,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2121","280",MuhamadRizan@gmail.com,"089688091771",Sukabumi,"2023-01-03 20:25:26",User,34
+Wahyugi Ramadan Agustian,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2125","280",Saputrayugi495@gmail.com,"082117200292",Sukabumi,"2023-01-03 20:25:26",User,31
+Jhon Satiaman Sembiring,Staff,PROD OC3 - DEDE SAPUTRA,"2126","289",jhonsatiaman88@gmail.com,"081376213728",Sukabumi,"2023-01-03 20:25:26",User,36
+Dadang Putra Nusantara,Staff,ENG - MARWAN PANISA,"2132","250",dnusantara@aio.co.id,"081215691985",Sukabumi,"2023-01-03 20:25:26",User,38
+Nopiar ,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2133","280",nopiarksave@gmail.com,"081574173933",Sukabumi,"2023-01-03 20:25:26",User,31
+Ardiansyah ,Staff,ENG - MARWAN PANISA,"2164","250",ardiansyah@aio.co.id,"081222332800",Sukabumi,"2023-01-03 20:25:26",User,37
+Bani Rumpaka,Supervisor,SCM - BANI RUMPAKA,"2177","304",banirumpaka88@gmail.com,"082111696954",Sukabumi,"2023-01-03 20:25:26",Fasilitator,36
+Sonni Ariyanto,Staff,PROD GBL - RICHI RIES RIYATNA,"2182","284",ariyantosonny@gmail.com,"081280875264",Sukabumi,"2023-01-03 20:25:26",User,40
+Irfan Maulana,Senior Staff,PROCUREMENT - SHANTY KUSUMAWARDHANY SANTOSO,"2190","265",irmaulana@aio.co.id,"081296560827",Sukabumi,"2023-01-03 20:25:26",User,33
+Rival Andrew,Staff,ENG - ERRY MIHARYANTO WICAKSONO,"2205","247",rivalandrew338@gmail.com,"081382082803",Sukabumi,"2023-01-03 20:25:26",User,37
+Kiki Fauzi,Staff,ENG - DWI NOVIANTO,"2206","245",ikifauzi@gmail.com,"082218884242",Sukabumi,"2023-01-03 20:25:26",User,35
+Asep Arif Fadilah,Staff,PROD SAMIX - SAIFUL ANWAR,"2209","281",Fadilah.asep@gmail.com,"081320022255",Sukabumi,"2023-01-03 20:25:26",User,37
+Ari Budiman,Senior Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2210","276",abudiman@aio.co.id,"081293620715",Sukabumi,"2023-01-03 20:25:26",User,36
+Ukat Saputra,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2213","275",ukatsaputra@gmail.com,"085770820649",Sukabumi,"2023-01-03 20:25:26",User,40
+Budi Rahmat,Staff,ENG - MARWAN PANISA,"2214","250",Budiramzo@gmail.com,"087820510690",Sukabumi,"2023-01-03 20:25:26",User,41
+R Dani Maolani,Staff,ENG - MARWAN PANISA,"2238","250",raden.dani27@gmail.com,"082119405047",Sukabumi,"2023-01-03 20:25:26",User,35
+Ruli Raksa Gumati,Staff,EHS - MUGIYONO,"2246","239",rgumati@aio.co.id,"081310041404",Sukabumi,"2023-01-03 20:25:26",User,37
+Alfan Nur Rohman Aditama,Supervisor,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2252","276",aaditama@aio.co.id,"085229019598",Sukabumi,"2023-01-03 20:25:26",Fasilitator,34
+Muhammad Anif Al Irsyad,Staff,PROD OC3 - AKHMAD FAQIH,"2258","287",anif.irsyad@gmail.com,"085647341774",Sukabumi,"2023-01-03 20:25:26",User,33
+Dian Agustiana,Staff,ENG - ERRY MIHARYANTO WICAKSONO,"2274","247",dagustiana@aio.co.id,"081556652699",Sukabumi,"2023-01-03 20:25:26",User,34
+Achmad Hasan Ramdanie,Staff,QA -  BENI HERMAWAN,"2281","319",Aramdhanie7@gmail.com,"081212395587",Sukabumi,"2023-01-03 20:25:26",User,35
+Natanael Hamonangan Ginting,Senior Staff,PROD AL 4 - NATANAEL H GINTING,"2298","271",natanaelginting@rocketmail.com,"081320649025",Sukabumi,"2023-01-03 20:25:26",Fasilitator,33
+Gerry Avi Perdana,Staff,PROD OC3 - JOHAN RONALDO,"2315","290",gaviperdana@gmail.com,"081310101895",Sukabumi,"2023-01-03 20:25:26",User,34
+Ricky Nugraha Irsha,Staff,PROD OC3 - AKHMAD FAQIH,"2318","287",rockevillo@gmail.com,"082160433580",Sukabumi,"2023-01-03 20:25:26",User,37
+Andi Winata,Staff,PROD OC3 - JOHAN RONALDO,"2319","290",andi.aw619@gmail.com,"081387339334",Sukabumi,"2023-01-03 20:25:26",User,35
+Asep Saepul Rahman,Staff,PROD OC3 - DEDE SAPUTRA,"2321","289",aseprahman273@gmail.com,"085795115450",Sukabumi,"2023-01-03 20:25:26",User,31
+Deden Hendrawan,Staff,PROD AL 4 - NATANAEL H GINTING,"2322","271",Denhendrawan77@gmail.com,"085723344542",Sukabumi,"2023-01-03 20:25:26",User,32
+Dikdik Ramdani,Staff,PROD OC3 - JOHAN RONALDO,"2323","290",dikdikr08@gmail.com,"089648454449",Sukabumi,"2023-01-03 20:25:26",User,38
+Fajar Kamaludin,Staff,PROD CANPET - EKA SURAHMAT,"2324","278",fajarkamal6@gmail.com,"081380131143",Sukabumi,"2023-01-03 20:25:26",User,31
+Rahmat Suandi,Staff,PROD OC3 - DEDE SAPUTRA,"2325","289",Rahmatsuandi8@gmail.com,"08164643327",Sukabumi,"2023-01-03 20:25:26",User,34
+Samsul Firdaus,Staff,PROD OC3 - JOHAN RONALDO,"2326","290",achuyfirdaus@gmail.com,"085862623767",Sukabumi,"2023-01-03 20:25:26",User,35
+Yonda Rachmat G,Staff,PROD OC3 - DEDE SAPUTRA,"2327","289",yondar79@gmail.com,"085723223212",Sukabumi,"2023-01-03 20:25:26",User,31
+Usep Kurnia Cahyadi,Staff,ENG - MARWAN PANISA,"2329","250",kurniacahyadiusep@gmail.com,"085659271310",Sukabumi,"2023-01-03 20:25:26",User,38
+Edwin Fauzi,Staff,ENG - MARWAN PANISA,"2330","250",edfauzi1917@gmail.com,"081380204540",Sukabumi,"2023-01-03 20:25:26",User,34
+Khoerudin ,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2334","275",khoerudin1@gmail.com,"081387004051",Sukabumi,"2023-01-03 20:25:26",User,31
+Asep Awaludin,Staff,PROD OC3 - DEDE SAPUTRA,"2335","289",Asepawaludin433@gmail.com,"085648361320",Sukabumi,"2023-01-03 20:25:26",User,31
+Hari Nata Wijaya,Staff,PROD CANPET - EKA SURAHMAT,"2355","278",harinatawijaya7013@gmail.com,"082311732159",Sukabumi,"2023-01-03 20:25:26",User,34
+Imam Samsu Rizal,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2356","280",imamsamsurizal@gmail.com,"0895615351896",Sukabumi,"2023-01-03 20:25:26",User,32
+Yogi ,Staff,PROD CANPET - EKA SURAHMAT,"2357","278",yogi71390@gmail.com,"081385003643",Sukabumi,"2023-01-03 20:25:26",User,30
+Ade Kurniawan,Staff,PROD OC3 - ASMADA,"2358","288",adekurniawan4560@yahoo.com,"083896064648",Sukabumi,"2023-01-03 20:25:26",User,31
+Gugus Jaya Permana,Staff,PROD CANPET - CECEP SUHENDAR,"2360","277",gugusjaya@gmail.com,"085603636003",Sukabumi,"2023-01-03 20:25:26",User,49
+Putra Amarullah,Staff,PROD OC3 - AKHMAD FAQIH,"2361","287",putra.amarulah@gmail.com,"081281323093",Sukabumi,"2023-01-03 20:25:26",User,31
+Ferdiaz Dinov Muafax,Senior Staff,TECHNICAL - ANDRI MARSHAL SETYAWAN,"2364","307",fdinov@aio.co.id,"081314633866",Sukabumi,"2023-01-03 20:25:26",User,33
+Nursalim ,Staff,PROD OC3 - DEDE SAPUTRA,"2367","289",nur_salim1890@yahoo.com,"085326866407",Sukabumi,"2023-01-03 20:25:26",User,34
+Usman Alkhoibawi,Senior Staff,QA - HARIS FEBRIANSYAH,"2393","295",usman.alkhoibawi@yahoo.com,"081296806797",Sukabumi,"2023-01-03 20:25:26",User,35
+Poltak Mulyono Simorangkir,Staff,QA -  BENI HERMAWAN,"2396","319",poltak.m.simorangkir@gmail.com,"081229988762",Sukabumi,"2023-01-03 20:25:26",User,34
+Andi Susanto,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2398","276",Andisusanto362@gmail.com,"085281040582",Sukabumi,"2023-01-03 20:25:26",User,36
+Albert Raga Andhika,Senior Staff,PROD AL 4 - TATANG SUNARYA,"2399","273",Albert.raga26@gmail.com,"085729261559",Sukabumi,"2023-01-03 20:25:26",User,36
+Deri Radio Saputra,Staff,PROD OC3 - AKHMAD FAQIH,"2400","287",radyoderi@gmail.com,"085280182827",Sukabumi,"2023-01-03 20:25:26",User,36
+Ahmad Rifai,Staff,ENG - MARWAN PANISA,"2410","250",Rifai6913@gmail.com,"081289970926",Sukabumi,"2023-01-03 20:25:26",User,33
+Jijib Hafidi,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2413","275",jijibhafidi.jh@gmail.com,"085723615310",Sukabumi,"2023-01-03 20:25:26",User,30
+Muhamad Abdul Mukhlis,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2415","280",mukhlispcd@gmail.com,"085723111760",Sukabumi,"2023-01-03 20:25:26",User,30
+Purqonudin ,Senior Staff,QA - NURDIYAN KRISTIAWAN,"2450","296",purqonudin@gmail.com,"081220317021",Sukabumi,"2023-01-03 20:25:26",User,32
+Irsyadut Tholibin,Senior Staff,PROD OC3 - AKHMAD FAQIH,"2459","287",irsyadmessiah92@gmail.com,"081232031741",Sukabumi,"2023-01-03 20:25:26",User,32
+Galas Deslatu Bahar,Staff,PROD OC3 - JOHAN RONALDO,"2490","290",galasdeslatu@gmail.com,"082210090500",Sukabumi,"2023-01-03 20:25:26",User,36
+Eka Maulana Yusuf,Supervisor,IT INFRA STRUCTURE & INDUSTRIAL - EKA M YUSUF,"2491","324",eyusu@aio.co.id,"085211630366",Sukabumi,"2023-01-03 20:25:26","Fasilitator,Technical Fasilitator",32
+"Samiaji Nurramdhan, S.Si",Staff,QA - DIMAS PERMADI,"2517","294",nurramdhansamiaji@gmail.com,"085282926672",Sukabumi,"2023-01-03 20:25:26",User,35
+Nurhadi Priatama,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2520","276",Red.carbonezer@gmail.com,"085888525051",Sukabumi,"2023-01-03 20:25:26",User,33
+Indra Prasta,Staff,PROD OC3 - DEDE SAPUTRA,"2521","289",indraprasta96@gmail.com,"08977537016",Sukabumi,"2023-01-03 20:25:26",User,31
+Achmad Mukharrom,Staff,PROD OC3 - ASMADA,"2523","288",broahmadpc180390@gmail.com,"081285964900",Sukabumi,"2023-01-03 20:25:26",User,34
+Ahlul Widya Nugraha,Staff,PROD OC3 - ASMADA,"2524","288",ahlulwnugraha@gmail.com,"082115762694",Sukabumi,"2023-01-03 20:25:26",User,35
+Mochamad Iqbal Munir,Senior Staff,SCM - FAUZI NUR ADIANTO,"2531","302",mmunir@aio.co.id,"081398402266",Sukabumi,"2023-01-03 20:25:26",User,36
+I Fata Sagedistira,Staff,ENG - ERRY MIHARYANTO WICAKSONO,"2549","247",ifata.sage@gmail.com,"081281108884",Sukabumi,"2023-01-03 20:25:26",User,35
+Wandi Adi Putra,Staff,PROD CANPET - CECEP SUHENDAR,"2550","277",adiputra.wap17@gmail.com,"085281294644",Sukabumi,"2023-01-03 20:25:26",User,32
+Ilham Maulana,Senior Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2554","275",ilhammaulanaimnfar12@gmail.com,"081219850651",Sukabumi,"2023-01-03 20:25:26",User,35
+Sandi Satria,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2558","275",Ferinapratama@gmail.com,"081289649245",Sukabumi,"2023-01-03 20:25:26",User,29
+Ardi Fauzi Muharam,Staff,PROD CANPET - EKA SURAHMAT,"2559","278",ardifauzi991@gmail.com,"082115792491",Sukabumi,"2023-01-03 20:25:26",User,29
+Muhamad Miftah,Staff,SCM - BANI RUMPAKA,"2561","304",m.miftah12@gmail.com,"081387617696",Sukabumi,"2023-01-03 20:25:26",User,32
+Mawan Andika,Staff,PROD CANPET - EKA SURAHMAT,"2562","278",andikamawan00@gmail.com,"082248296074",Sukabumi,"2023-01-03 20:25:26",User,36
+Rizwan ,Staff,PROD OC3 - ASMADA,"2567","288",rizwaniwank.113@gmail.com,"081291325792",Sukabumi,"2023-01-03 20:25:26",User,30
+Indra Fadhillah Rahman,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2568","275",zafranfadillah92@gmail.com,"085794444477",Sukabumi,"2023-01-03 20:25:26",User,32
+Riki Sopandi,Staff,PROD CANPET - EKA SURAHMAT,"2569","278",rikisopa2603@gmail.com,"085862966449",Sukabumi,"2023-01-03 20:25:26",User,32
+Sudrajat ,Staff,PROD GBL - RICHI RIES RIYATNA,"2571","284",ajesudrajat28@gmail.com,"081289366422",Sukabumi,"2023-01-03 20:25:26",User,38
+Imam Taufikkurahman,Staff,SCM - NOVI ZAKARIA,"2572","303",imamt0315@gmail.com,"081289275310",Sukabumi,"2023-01-03 20:25:26",User,34
+Muhamad Bagus Satria,Staff,PROD CANPET - CECEP SUHENDAR,"2575","277",bagussatria2292@gmail.com,"089643271922",Sukabumi,"2023-01-03 20:25:26",User,32
+Ahmad Purnomo,Staff,PROD CANPET - CECEP SUHENDAR,"2576","277",Ahmadpurnomo1890@gmail.com,"089512109803",Sukabumi,"2023-01-03 20:25:26",User,34
+Ujang Sutrisno,Staff,PROD OC3 - ASMADA,"2582","288",ujangsutrisno11@gmail.com,"089658447448",Sukabumi,"2023-01-03 20:25:26",User,30
+Ruslandi ,Staff,PROD ADM & OT - DIDIN,"2583","267",ruslandi68@gmail.com,"085846090910",Sukabumi,"2023-01-03 20:25:26",User,35
+M Hikmat Dewantara,Staff,PROD OC3 - JOHAN RONALDO,"2584","290",Dewantarahikmat@gmail.com,"081312665130",Sukabumi,"2023-01-03 20:25:26",User,37
+Sukma Anhari S,Staff,QA - YOSEP RIZA IRFANI,"2591","297",sukmaanhari15@gmail.com,"082113160793",Sukabumi,"2023-01-03 20:25:26",User,34
+Yan Yan Rusyana,Staff,PROD ADM & OT - DIDIN,"2593","267",yanyanrusyana@gmail.com,"087878261926",Sukabumi,"2023-01-03 20:25:26",User,34
+Asep Angga Zulfikor,Staff,PROD OC3 - JOHAN RONALDO,"2602","290",Azulfikor.az@gmail.com,"081288128830",Sukabumi,"2023-01-03 20:25:26",User,32
+Asep Bayan,Staff,PROD CANPET - ALFAN NUR ROHMAN ADITAMA,"2603","276",Byanchikal@gmail.com,"085770317613",Sukabumi,"2023-01-03 20:25:26",User,34
+Amar Mauludi Marifat,Staff,QA - HARIS FEBRIANSYAH,"2611","295",amarmmarifat@gmail.com,"0895324798008",Sukabumi,"2023-01-03 20:25:26",User,33
+Agus Gunawan,Staff,PROD OC3 - ASMADA,"2613","288",Abdy.agus@yahoo.com,"082111281234",Sukabumi,"2023-01-03 20:25:26",User,33
+Andi Dwi Fransetiyo,Staff,PROD OC3 - DEDE SAPUTRA,"2615","289",andidwi0990@gmail.com,"081212181929",Sukabumi,"2023-01-03 20:25:26",User,34
+Zainy Maulana Malik,Staff,ENG - ERRY MIHARYANTO WICAKSONO,"2617","247",zainy_maulana@yahoo.com,"085720072830",Sukabumi,"2023-01-03 20:25:26",User,30
+Hilman Hamidi,Staff,PROD OC3 - AKHMAD FAQIH,"2638","287",hilmanchimonk12@gmail.com,"081519038071",Sukabumi,"2023-01-03 20:25:26",User,35
+A Marshel Setyawan,Supervisor,TECHNICAL - ANDRI MARSHAL SETYAWAN,"2639","307",amsetyawan@aio.co.id,"081219776443",Sukabumi,"2023-01-03 20:25:26",Fasilitator,33
+Hesty Yanuarti,Senior Staff,FINANCE & ACCOUNTING - A. HAFIDH FAIDHONI,"2657","252",hyanuarti@aio.co.id,"081809204629",Sukabumi,"2023-01-03 20:25:26",User,31
+Tiara Fitrina,Staff,ENG - ERRY MIHARYANTO WICAKSONO,"2658","247",tfitrina@aio.co.id,"081383510987",Sukabumi,"2023-01-03 20:25:26",User,33
+Chepy Yuliandi,Staff,PROD OC3 - DEDE SAPUTRA,"2660","289",andye.agil@gmail.com,"082122718386",Sukabumi,"2023-01-03 20:25:26",User,35
+Feri ,Supervisor,HCD - FERI,"2686","256",feri@aio.co.id,"085720222212",Sukabumi,"2023-01-03 20:25:26",Fasilitator,35
+Nia Wahyu Dwi Handayani,Supervisor,TECHNICAL - NIA WAHYU DWI HANDAYANI,"2696","306",nhandayani@aio.co.id,"081228288614",Sukabumi,"2023-01-03 20:25:26",Fasilitator,33
+Tedi Setiawan,Staff,PROD CANPET - EKA SURAHMAT,"2705","278",tedisetiawan51@gmail.com,"082258040634",Sukabumi,"2023-01-03 20:25:26",User,32
+Rustian ,Staff,PROD OC3 - ASMADA,"2706","288",rustianhtcdesirehd@gmail.com,"081563970790",Sukabumi,"2023-01-03 20:25:26",User,32
+Saepul Rahman,Senior Staff,QA -  BENI HERMAWAN,"2712","319",saepulmail@gmail.com,"085723805363",Sukabumi,"2023-01-03 20:25:26",User,35
+Muhammad Ziqry Fratama,Staff,QA - HARIS FEBRIANSYAH,"2714","295",mziqryf@gmail.com,"087724045394",Sukabumi,"2023-01-03 20:25:26",User,30
+Taufik Nur Rahman,Senior Staff,TECHNICAL - NIA WAHYU DWI HANDAYANI,"2715","306",trahman@aio.co.id,"081319812915",Sukabumi,"2023-01-03 20:25:26",User,33
+Bastian Manurung,Senior Staff,QA -  BENI HERMAWAN,"2716","319",Bastianmanurung92@gmail.com,"081274407061",Sukabumi,"2023-01-03 20:25:26",User,32
+Asep Awaludin,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2719","275",asepawal94@gmail.com,"081212115767",Sukabumi,"2023-01-03 20:25:26",User,30
+Gilang Pramana,Staff,QA - HARIS FEBRIANSYAH,"2725","295",ggelenj@gmail.com,"081318592512",Sukabumi,"2023-01-03 20:25:26",User,35
+Yusup Maulana,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2750","275",Slowloe_yuma@yahoo.co.id,"082213133262",Sukabumi,"2023-01-03 20:25:26",User,35
+Gia Rizki Maulana,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2753","280",Cfsgea@gmail.com,"081287956098",Sukabumi,"2023-01-03 20:25:26",User,28
+Abil Yusuf Hamdani,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"2777","275",abilyusufhamdani@gmail.com,"085624054631",Sukabumi,"2023-01-03 20:25:26",User,32
+Dede ,Staff,EHS - ROYNALD JHON BEDA,"2791","241",dc.suherman@gmail.com,"085780832656",Sukabumi,"2023-01-03 20:25:26",User,36
+Salman Alfarizi,Staff,PROD CANPET - CECEP SUHENDAR,"2800","277",Salmanalfarizi301@gmail.com,"085894219168",Sukabumi,"2023-01-03 20:25:26",User,30
+Wisnu Widayat,Staff,PROD OC3 - BAMBANG DK,"2806","291",wisnuwidayat55@gmail.com,"081292752678",Sukabumi,"2023-01-03 20:25:26",User,33
+Nur Wahani,Supervisor,ENG - MUCH. MUCHIBBIN,"2810","246",nwahani@aio.co.id,"081316667217",Sukabumi,"2023-01-03 20:25:26",Fasilitator,30
+Asep Indra,Staff,CORCOM - IDAH,"2820","237",aindra@aio.co.id,"081294448105",Sukabumi,"2023-01-03 20:25:26",User,43
+Pemyla Sukmawati Muharam Juanda,Staff,EHS - MUGIYONO,"2821","239",pjuanda@aio.co.id,"085723655878",Sukabumi,"2023-01-03 20:25:26",User,37
+Dimas Algy Pratama Iriyanto,Staff,PROD SAMIX - ISFAN MUBAIDILA,"2822","280",Dimasputraalgy@gmail.com,"081365000315",Sukabumi,"2023-01-03 20:25:26",User,29
+Rima Sanseni,Staff,ENG - DWI NOVIANTO,"2825","245",rsanseni@aio.co.id,"085797085859",Sukabumi,"2023-01-03 20:25:26",User,30
+Gerry Setiyadi,Staff,PROD OC3 - JOHAN RONALDO,"2851","290",gerrys2851@gmail.com,"085720435099",Sukabumi,"2023-01-03 20:25:26",User,30
+Ujang Lukman,Staff,PROD OC3 - ASMADA,"2853","288",lukmansurya31@gmail.com,"082298881503",Sukabumi,"2023-01-03 20:25:26",User,31
+Jaenal Abidin,Senior Staff,SCM - HENDRA SUKANDAR,"2854","300",Jaenalabidin669@gmail.com,"085770857799",Sukabumi,"2023-01-03 20:25:26",User,37
+Harry Luthfi,Staff,QA - HARIS FEBRIANSYAH,"2856","295",harry_luthfi@yahoo.com,"085798964706",Sukabumi,"2023-01-03 20:25:26",User,36
+Rahmat Hidayat,Staff,ENG - MARWAN PANISA,"2857","250",Rararahi88@gmail.com,"085793947717",Sukabumi,"2023-01-03 20:25:26",User,35
+Cucu Sudrajat,Staff,SCM - AKBAR TAQWA,"2887","299",Csudrajat05@gmail.com,"085775704539",Sukabumi,"2023-01-03 20:25:26",User,48
+Dena Zakaria,Staff,QA - HARIS FEBRIANSYAH,"2893","295",denazaka@gmail.com,"085752812628",Sukabumi,"2023-01-03 20:25:26",User,32
+M Arif Sukur Darmiyanto,Staff,PROD AL 4 - NATANAEL H GINTING,"2931","271",muh.arif.sd@gmail.com,"082242471740",Sukabumi,"2023-01-03 20:25:26",User,34
+Elsa Sylvia Rosa,Staff,GA & LEGAL - SEMDY RAMADI,"2936","254",erosa@aio.co.id,"085222750090",Sukabumi,"2023-01-03 20:25:26",User,34
+Roni Sahroni,Staff,PROD OC3 - JOHAN RONALDO,"2957","290",Rsahroni505@gmail.com,"081213665507",Sukabumi,"2023-01-03 20:25:26",User,29
+Raden Dani Najar Saputra,Staff,QA - HARIS FEBRIANSYAH,"2994","295",radendaninajarsaputra@gmail.com,"087770666547",Sukabumi,"2023-01-03 20:25:26",User,30
+Dewi Shalati Hasanah,Staff,TECHNICAL - NIA WAHYU DWI HANDAYANI,"2998","306",dhasanah@aio.co.id,"08119371010",Sukabumi,"2023-01-03 20:25:26",User,33
+Adhimas Rizki Wijaksono,Senior Staff,TECHNICAL - ANDRI MARSHAL SETYAWAN,"3053","307",awijaksono@aio.co.id,"081312537900",Sukabumi,"2023-01-03 20:25:26",User,32
+Lia Choirunnisa,Supervisor,QA - LIA CHOIRUNNISA,"3058","293",lchoirunnisa@aio.co.id,"081221874344",Sukabumi,"2023-01-03 20:25:26",Fasilitator,32
+Rabbani Nurjaya,Staff,QA -  BENI HERMAWAN,"3059","319",rabbaninurjaya59@gmail.com,"0816845987",Sukabumi,"2023-01-03 20:25:26",User,33
+Sony Iskandar,Staff,QA -  BENI HERMAWAN,"3072","319",iskandar.sony@gmail.com,"085280781694",Sukabumi,"2023-01-03 20:25:26",User,32
+Angga Roswan Nugraha,Staff,TECHNICAL - ANDRI MARSHAL SETYAWAN,"3077","307",anugraha@aio.co.id,"081380196739",Sukabumi,"2023-01-03 20:25:26",User,34
+Ariaprana Harsaputra,Staff,QA - YOSEP RIZA IRFANI,"3139","297",harsaputra4@gmail.com,"08999567850",Sukabumi,"2023-01-03 20:25:26",User,31
+Andri Ferbiyanto,Staff,QA -  BENI HERMAWAN,"3175","319",andriferbiyanto@gmail.com,"081289275916",Sukabumi,"2023-01-03 20:25:26",User,34
+Restu Kurniawan,Supervisor,QUALITY ASSURANCE,"3196","292",rkurniawan@aio.co.id,"081385556817",Sukabumi,"2023-01-03 20:25:26",Fasilitator,31
+Fiqih Adnan Mugia Mazid,Senior Staff,PROD AL 4 - TRI YATMOKO,"3199","272",fiqihadnan@gmail.com,"081285559890",Sukabumi,"2023-01-03 20:25:26",User,34
+Ujang Ismat,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"3200","275",punklima.penantiean86@gmail.com,"087748391450",Sukabumi,"2023-01-03 20:25:26",User,31
+Handi Yudira,Staff,PROD OC3 - JOHAN RONALDO,"3206","290",handiyudira11@gmail.com,"082240496673",Sukabumi,"2023-01-03 20:25:26",User,31
+Muhamad Ilyas Tafsiri,Staff,EHS - ROYNALD JHON BEDA,"3224","241",ilyasaio97@gmail.com,"081289306858",Sukabumi,"2023-01-03 20:25:26",User,27
+Ahmad Afandi,Staff,QA - HARIS FEBRIANSYAH,"3265","295",afandia23@yahoo.com,"082126974748",Sukabumi,"2023-01-03 20:25:26",User,32
+Iman Supriatna,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"3283","275",Imansupriatna666@gmail.com,"085882720428",Sukabumi,"2023-01-03 20:25:26",User,31
+Fathoni Arif Yanto,Staff,SCM - HENDRA SUKANDAR,"3284","300",toni.rief@gmail.com,"085782990957",Sukabumi,"2023-01-03 20:25:26",User,34
+Muhammad Maulana,Staff,SCM - HENDRA SUKANDAR,"3286","300",maulana310895@gmail.com,"085864512151",Sukabumi,"2023-01-03 20:25:26",User,31
+Sopi Yulloh,Staff,PROD OC3 - ASMADA,"3309","288",yullohsopi691@gmail.com,"085780056661",Sukabumi,"2023-01-03 20:25:26",User,30
+Hendrik ,Staff,PROD OC3 - ASMADA,"3311","288",Hendrikruspian@gmail.com,"082121233594",Sukabumi,"2023-01-03 20:25:26",User,36
+Jalaludin ,Staff,PROD GBL - BAYU HERLAMBANG,"3312","283",Jalalluddin01@gmail.com,"08989480515",Sukabumi,"2023-01-03 20:25:26",User,31
+Kurnianto Joko Santoso,Staff,ENG - MUCH. MUCHIBBIN,"3338","246",krniantojko@gmail.com,"081288349581",Sukabumi,"2023-01-03 20:25:26",User,30
+Akbar Dzikrullah,Staff,PROD GBL - RICHI RIES RIYATNA,"3365","284",dzikrullahakbar.ad@gmail.com,"081385073672",Sukabumi,"2023-01-03 20:25:26",User,30
+Teguh Prasetya,Staff,PROD OC3 - BAMBANG DK,"3366","291",teguhprasetya3366@gmail.com,"085716847248",Sukabumi,"2023-01-03 20:25:26",User,30
+Sandri Sariful Hidayatulloh,Staff,PROD OC3 - BAMBANG DK,"3381","291",sandrisariful@gmail.com,"08561131872",Sukabumi,"2023-01-03 20:25:26",User,32
+Reafli Rizki Alfatoni,Senior Staff,PROD GBL - RICHI RIES RIYATNA,"3382","284",rizkireafli24@gmail.com,"082246945292",Sukabumi,"2023-01-03 20:25:26",User,30
+Muhammad Hafiidh Setiawan,Staff,QA - HARIS FEBRIANSYAH,"3427","295",hafiidhsetiawan@ymail.com,"089649002016",Sukabumi,"2023-01-03 20:25:26",User,31
+Muhammad Irfan Nasrullah,Senior Staff,PROD GBL - RICHI RIES RIYATNA,"3429","284",ir.ganz@gmail.com,"082121231040",Sukabumi,"2023-01-03 20:25:26",User,29
+Zaka ,Senior Staff,PROD GBL - RICHI RIES RIYATNA,"3430","284",Zakazakazaka844@gmail.com,"081296497104",Sukabumi,"2023-01-03 20:25:26",User,28
+Muhammad Fikri A,Staff,PROD GBL - BAYU HERLAMBANG,"3451","283",fikriabdurrazaqmuhammad@gmail.com,"085793398496",Sukabumi,"2023-01-03 20:25:26",User,29
+Iwan Hermawan,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"3504","275","1986iwanhermawan@gmail.com","081318353319",Sukabumi,"2023-01-03 20:25:26",User,38
+Andrian Danu Ridwan,Staff,PROD SAMIX - ISFAN MUBAIDILA,"3536","280",rianandrian962@gmail.com,"085872180308",Sukabumi,"2023-01-03 20:25:26",User,31
+Ariandi ,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"3539","275",Ariandie777@gmail.com,"085793720504",Sukabumi,"2023-01-03 20:25:26",User,36
+Muhammad Fajar Hussaeni,Staff,PROD OC3 - AKHMAD FAQIH,"3540","287",Muhammadfajarhussaeni06@gmail.com,"082113656144",Sukabumi,"2023-01-03 20:25:26",User,30
+Rapi Padilah,Staff,PROD SAMIX - ISFAN MUBAIDILA,"3541","280",padilahrapi9@gmail.com,"081382353971",Sukabumi,"2023-01-03 20:25:26",User,32
+Alik Rangga Prasetya,Staff,TECHNICAL - NIA WAHYU DWI HANDAYANI,"3561","306",aprasetya@aio.co.id,"085736566875",Sukabumi,"2023-01-03 20:25:26",User,29
+Rijal Ahsan Nurfauzy,Staff,QA - HARIS FEBRIANSYAH,"3572","295",fauzyahsan@gmail.com,"082249318936",Sukabumi,"2023-01-03 20:25:26",User,28
+Sahrul Maulana,Staff,PROD OC3 - AKHMAD FAQIH,"3585","287",sahrulayuy33@gmail.com,"085783794394",Sukabumi,"2023-01-03 20:25:26",User,28
+Abdul Sahid,Staff,PROD OC3 - DEDE SAPUTRA,"3586","289",doelsahid88@gmail.com,"081341463377",Sukabumi,"2023-01-03 20:25:26",User,36
+Ramlan Nugraha,Staff,PROD OC3 - JOHAN RONALDO,"3616","290",ramlannugraha01@gmail.com,"08562116963",Sukabumi,"2023-01-03 20:25:26",User,30
+Rani Ridayani,Staff,KAIZEN,"3655","310",rridayani@aio.co.id,"081384947600",Sukabumi,"2023-01-03 20:25:26","User,Admin",30
+Al Dzickri Vigar Luna,Staff,PROD OC3 - AKHMAD FAQIH,"3661","287",aldzickri25@gmail.com,"081398103577",Sukabumi,"2023-01-03 20:25:26",User,28
+Adji Bagus Ekaputra,Staff,QA - LIA CHOIRUNNISA,"3663","293",adjibagusekaputra@gmail.com,"082320973943",Sukabumi,"2023-01-03 20:25:26",User,28
+Reinaldy Nasrullah Pujantara,Staff,PROD OC3 - DEDE SAPUTRA,"3664","289",Reinaldynpujantara@gmail.com,"085659451261",Sukabumi,"2023-01-03 20:25:26",User,28
+Encep Muslih,Staff,PROD OC3 - ASMADA,"3674","288",encepmuslih71@gmail.com,"081384814073",Sukabumi,"2023-01-03 20:25:26",User,34
+Budi Jaelani,Staff,PROD OC3 - AKHMAD FAQIH,"3680","287",Budijaelani90@gmail.com,"085694195982",Sukabumi,"2023-01-03 20:25:26",User,31
+Syahid Achmadi,Staff,QA - HARIS FEBRIANSYAH,"3762","295",achmadi.syahid@gmail.com,"081319311166",Sukabumi,"2023-01-03 20:25:26",User,28
+Sudin,Senior Staff,QA - HARIS FEBRIANSYAH,"3767","295",sudin.apt@gmail.com,"081232388329",Sukabumi,"2023-01-03 20:25:26",User,30
+Fajri Akhsan Maulana,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4363","270",fajriakhsan90@gmail.com,"085798275185",Sukabumi,"2023-01-03 20:25:26",User,24
+Ujang Abdurohman,Staff,PROD GBL - RICHI RIES RIYATNA,"4364","284",ujangabdurohman2094@gmail.com,"082258993711",Sukabumi,"2023-01-03 20:25:26",User,30
+Adi Rahmadyansah,Staff,PROD GBL - BAYU HERLAMBANG,"4365","283",adirahmadyansah95@gmail.com,"085210824695",Sukabumi,"2023-01-03 20:25:26",User,29
+Sopyan Setiyadi,Staff,PROD AL 4 - TRI YATMOKO,"4403","272",sopyansetiadi3735@gmail.com,"089638005697",Sukabumi,"2023-01-03 20:25:26",User,27
+Muhamad Yamin,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4404","270",yaminmuhammad638@gmail.com,"085723655538",Sukabumi,"2023-01-03 20:25:26",User,25
+Arga Mugia Gumilang,Staff,PROD GBL - RICHI RIES RIYATNA,"4185","284",mugiarga@gmail.com,"081388121696",Sukabumi,"2023-01-03 20:25:26",User,28
+Muhammad Gilang Ramadan,Staff,ENG - SUHENDRA GUNAWAN,"4186","244",gilangramadan72308@gmail.com,"082219320262",Sukabumi,"2023-01-03 20:25:26",User,27
+Rian Alfiansyah,Staff,PROD AL 4 - NATANAEL H GINTING,"4187","271",rianalfiansyah432@gmail.com,"085871222673",Sukabumi,"2023-01-03 20:25:26",User,27
+Fathul Majid,Staff,PROD AL 4 - NATANAEL H GINTING,"3799","271",fathulmajid214@gmail.com,"085817289060",Sukabumi,"2023-01-03 20:25:26",User,26
+Fathul Majid,Staff,PROD AL 4 - NATANAEL H GINTING,"3799","271",fathulmajid214@gmail.com,"085817289060",Sukabumi,"2023-01-03 20:25:26",User,26
+Rahman Hidayatullah,Staff,PROD AL 4 - NATANAEL H GINTING,"4406","271",rahmanhiadayatullah.2@gmail.com,"088291107560",Sukabumi,"2023-01-03 20:25:26",User,25
+Dendy Rangga Guntara,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4407","269",den16guntara@gmail.com,"085720699661",Sukabumi,"2023-01-03 20:25:26",User,27
+Azkal Fauzan,Staff,PROD AL 4 - TRI YATMOKO,"4408","272",azkalfauzan48@gmail.com,"08987350820",Sukabumi,"2023-01-03 20:25:26",User,24
+Pepen Sukmawijaya,Staff,PROD AL 4 - NATANAEL H GINTING,"4295","271",pepensukma@gmail.com,"083895189778",Sukabumi,"2023-01-03 20:25:26",User,33
+Badarudin .,Staff,PROD AL 4 - TRI YATMOKO,"4296","272",Badarudin889@gmail.com,"085886357809",Sukabumi,"2023-01-03 20:25:26",User,29
+Irfan Faizal Cahya Persada,Staff,PROD AL 4 - TRI YATMOKO,"4297","272",irfaizal98@gmail.com,"0895328330784",Sukabumi,"2023-01-03 20:25:26",User,26
+M Supandi Rifai,Staff,PROD AL 4 - TRI YATMOKO,"4298","272",supandiksave@gmail.com,"0895328330784",Sukabumi,"2023-01-03 20:25:26",User,24
+Aang Anggara,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4414","269",aanganggara223@gmail.com,"085692066407",Sukabumi,"2023-01-03 20:25:26",User,24
+Mochamad Rizki Adriansah,Staff,QA - HARIS FEBRIANSYAH,"3836","295",rizki230995@gmail.com,"085697666294",Sukabumi,"2023-01-03 20:25:26",User,29
+Abdul Aziz,Staff,QA - HARIS FEBRIANSYAH,"3837","295",azizabdul2106@gmail.com,"08156259100",Sukabumi,"2023-01-03 20:25:26",User,28
+Rozan Nugraha,Staff,QA - HARIS FEBRIANSYAH,"3838","295",rozannugraha@gmail.com,"081214563680",Sukabumi,"2023-01-03 20:25:26",User,28
+Muhamad Yusuf Mubarok,Staff,PROD AL 4 - NATANAEL H GINTING,"4203","271",mymubarok22@gmail.com,"085800423452",Sukabumi,"2023-01-03 20:25:26",User,30
+Mochammad Ilham Septiadi,Staff,QA -  BENI HERMAWAN,"3860","319","23septiadi@gmail.com","085157762311",Sukabumi,"2023-01-03 20:25:26",User,29
+Bela Wibawa,Staff,PROD GBL - BAYU HERLAMBANG,"4285","283",belawibawa@gmail.com,"08981024849",Sukabumi,"2023-01-03 20:25:26",User,28
+Aziz Rahman Siregar,Staff,PROD AL 4 - TRI YATMOKO,"3882","272",asiregar@gmail.com,"085797415290",Sukabumi,"2023-01-03 20:25:26",User,30
+Mulki Udhia Khatami,Staff,PROD AL 4 - TRI YATMOKO,"3934","272",mulkyuk@gmail.com,"0859159935800",Sukabumi,"2023-01-03 20:25:26",User,24
+Harun Ashari,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"3935","270",harunazhari29@gmail.com,"082114418815",Sukabumi,"2023-01-03 20:25:26",User,29
+Fenny Novita Sari,Staff,FINANCE & ACCOUNTING - TONI IRWANA,"3942","312",fsari@aio.co.id,"087852000280",Sukabumi,"2023-01-03 20:25:26",User,28
+Agung Huda Heriyanto,Staff,ENG - MARWAN PANISA,"3943","250",hudaheriyantoagung@gmail.com,"082297713477",Sukabumi,"2023-01-03 20:25:26",User,29
+Rizki Alfinura,Staff,FINANCE & ACCOUNTING - A. HAFIDH FAIDHONI,"3947","252",ralfinura@aio.co.id,"081398131304",Sukabumi,"2023-01-03 20:25:26",User,25
+Muhamad Fajar,Staff,PROD AL 4 - TATANG SUNARYA,"4275","273",muhamadfajar300300@gmail.com,"082268648103",Sukabumi,"2023-01-03 20:25:26",User,24
+Ade Rudiansyah,Staff,PROD AL 4 - NATANAEL H GINTING,"3957","271",aderudiansyah95@gmail.com,"085890245149",Sukabumi,"2023-01-03 20:25:26",User,29
+Daris Riyadi,Staff,IT BUSINESS APPLICATION,"3958","258",darisriyadi@gmail.com,"081313538689",Sukabumi,"2023-01-03 20:25:26",User,27
+Eksanata Prawira Sidiq Zaelani,Staff,ENG - MUCH. MUCHIBBIN,"4198","246",eksanataprawira@gmail.com,"0895110016594",Sukabumi,"2023-01-03 20:25:26",User,26
+Aqsal Sutriana,Staff,PROD GBL - RICHI RIES RIYATNA,"3970","284",aqsalsutriana3@gmail.com,"0895332234915",Sukabumi,"2023-01-03 20:25:26",User,21
+Tripasha Ramdhani Pamungkas,Staff,PROD GBL - BAYU HERLAMBANG,"3971","283",tripasharamdhanip@gmail.com,"089514580413",Sukabumi,"2023-01-03 20:25:26",User,22
+Rezy Herdian,Staff,PROD GBL - RICHI RIES RIYATNA,"3973","284",rezyherdian7@gmail.com,"085213332434",Sukabumi,"2023-01-03 20:25:26",User,25
+Muh. Fauzan Hasbi,Staff,PROD OC3 - JOHAN RONALDO,"3974","290",hasbi.ozan69@gmail.com,"08997599536",Sukabumi,"2023-01-03 20:25:26",User,24
+Muhammad Abdul Zidane,Staff,PROD GBL - BAYU HERLAMBANG,"3975","283",zidane.manson@gmail.com,"089658225933",Sukabumi,"2023-01-03 20:25:26",User,24
+Esa Farhan Rustandar,Staff,PROD GBL - BAYU HERLAMBANG,"3976","283",esafarhan92@gmail.com,"087831029703",Sukabumi,"2023-01-03 20:25:26",User,26
+Encep Saepul Rohman,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"3977","269",encepsaepulr22@gmail.com,"085846259228",Sukabumi,"2023-01-03 20:25:26",User,27
+Hari Krismawan,Staff,PROD GBL - BAYU HERLAMBANG,"3978","283",harkris90@gmail.com,"085846233146",Sukabumi,"2023-01-03 20:25:26",User,26
+Fahmi Alfian Padillah,Staff,PROD ADM & OT - DIDIN,"3979","267",fahmialfian1008@gmail.com,"08987542458",Sukabumi,"2023-01-03 20:25:26",User,26
+Ari Nuryadi,Staff,PROD GBL - RICHI RIES RIYATNA,"3981","284",ariaray202@gmail.com,"081385847151",Sukabumi,"2023-01-03 20:25:26",User,28
+Herdi Nurdin,Staff,PROD GBL - BAYU HERLAMBANG,"3986","283",herdinamakamu1@gmail.com,"082211513121",Sukabumi,"2023-01-03 20:25:26",User,30
+Sukma Manunggal,Staff,PROD GBL - RICHI RIES RIYATNA,"3987","284",sukmamanunggal85@gmail.com,"081224381722",Sukabumi,"2023-01-03 20:25:26",User,28
+Saepul Ramdhani,Staff,PROD GBL - BAYU HERLAMBANG,"3988","283",saepulramdhani84@gmail.com,"081289236716",Sukabumi,"2023-01-03 20:25:26",User,30
+Esto Triramdani Nurlustiawan,Staff,IT BUSINESS APPLICATION,"4189","258",estotriramdani@gmail.com,"089657285153",Sukabumi,"2023-01-03 20:25:26",User,24
+Mochamad Galih,Staff,PROD SAMIX - ISFAN MUBAIDILA,"4013","280",GALIHMOCHAMAD4@GMAIL.COM,"085759363194",Sukabumi,"2023-01-03 20:25:26",User,23
+Yusuf Rahman,Staff,PROD OC3 - JOHAN RONALDO,"4014","290",YUSUFRAHMAN6203@GMAIL.COM,"085218789985",Sukabumi,"2023-01-03 20:25:26",User,32
+M Fadli Hidayatullah,Staff,PROD OC3 - JOHAN RONALDO,"4015","290",FADLIZONE606@GMAIL.COM,"081315581947",Sukabumi,"2023-01-03 20:25:26",User,24
+Kiki Aprillianto,Staff,PROD AL 4 - TRI YATMOKO,"4032","272",kikiaprillianto07@gmail.com,"085774959509",Sukabumi,"2023-01-03 20:25:26",User,29
+Ari Nopriyandoko,Staff,PROD AL 4 - TRI YATMOKO,"4033","272",arinopri15@gmail.com,"081321209026",Sukabumi,"2023-01-03 20:25:26",User,29
+Mochammad Iqbal Defryanto,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4036","270",iqbaldefryanto96@gmail.com,"081384558588",Sukabumi,"2023-01-03 20:25:26",User,27
+Hasna Haifa Irfani,Staff,TECHNICAL - NIA WAHYU DWI HANDAYANI,"4241","306",hasnahaifairfani@gmail.com,"087780902321",Sukabumi,"2023-01-03 20:25:26",User,25
+Bimantara Rhizki Purnama,Staff,TECHNICAL - NIA WAHYU DWI HANDAYANI,"4242","306",bimantarapurnama@gmail.com,"082138662080",Sukabumi,"2023-01-03 20:25:26",User,28
+Gafaldy Mulya,Staff,ENG - MARWAN PANISA,"4330","250",gafaldym25@gmail.com,"081266754419",Sukabumi,"2023-01-03 20:25:26",User,27
+Balqis Alyssa Pramesti Regina,Staff,QA - LIA CHOIRUNNISA,"4271","293",balqisregina17@gmail.com,"082280241412",Sukabumi,"2023-01-03 20:25:26",User,24
+Riyan Nurholis,Staff,PROD OC3 - DEDE SAPUTRA,"4056","289",riyannurholis@yahoo.co.id,"085693616186",Sukabumi,"2023-01-03 20:25:26",User,28
+Yoga ,Staff,PROD OC3 - BAMBANG DK,"4057","291",yoga.osr@gmail.com,"089656370892",Sukabumi,"2023-01-03 20:25:26",User,27
+Adi Fiqri,Staff,QA - HARIS FEBRIANSYAH,"4273","295",adif12712@gmail.com,"089691240213",Sukabumi,"2023-01-03 20:25:26",User,24
+Muhammad Faisal Hermawan,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4064","269",isalhermawan@gmail.com,"085720007889",Sukabumi,"2023-01-03 20:25:26",User,27
+Andika Wahyu Utomo,Staff,PROD AL 4 - TRI YATMOKO,"4065","272",andikawahyu170@gmail.com,"085710558060",Sukabumi,"2023-01-03 20:25:26",User,29
+Muhammad Riza Anugrah,Staff,PROD AL 4 - NATANAEL H GINTING,"4066","271",rizaanugrah90@gmail.com,"082146242317",Sukabumi,"2023-01-03 20:25:26",User,29
+Faizal Akmal Maulana,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4074","270",faizalakmal740@gmail.com,"0895365073393",Sukabumi,"2023-01-03 20:25:26",User,22
+Heru Noveansyah,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4075","269",herunoveansyah@gmail.com,"081234557514",Sukabumi,"2023-01-03 20:25:26",User,28
+Moch Latief,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4076","270",mochamad_latief@yahoo.com,"081563577645",Sukabumi,"2023-01-03 20:25:26",User,30
+Aldi Dwi Rustandi,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4079","270",paldi3486@gmail.com,"082298125300",Sukabumi,"2023-01-03 20:25:26",User,28
+Irawan ,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4080","270",irawancicuruh@gmail.com,"085285708786",Sukabumi,"2023-01-03 20:25:26",User,33
+Aggie Adrian Fadhilah,Staff,QA - HARIS FEBRIANSYAH,"4084","295",aggiefadrian9@gmail.com,"083819510303",Sukabumi,"2023-01-03 20:25:26",User,27
+M Yusuf Fajar Zaelani,Senior Staff,IT BUSINESS APPLICATION,"4089","258",mzaelani@aio.co.id,"081286475125",Sukabumi,"2023-01-03 20:25:26",User,26
+Salman El Islam,Staff,PROD AL 4 - NATANAEL H GINTING,"4094","271",elislamsalman39@gmail.com,"087730601346",Sukabumi,"2023-01-03 20:25:26",User,29
+Al Fattha Melia,Staff,PROCUREMENT - ATANG RACHMAT,"4320","264",alfatthamelia@gmail.com,"087892938712",Sukabumi,"2023-01-03 20:25:26",User,22
+Opan Sopian,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4101","269",opansopian321@gmail.com,"089622286900",Sukabumi,"2023-01-03 20:25:26",User,34
+Diva Tania Soraya,Staff,HCD - FERI,"4133","256",divatanias29@gmail.com,"082326995000",Sukabumi,"2023-01-03 20:25:26",User,25
+Putra Muhammad Abdul Rohman,Staff,GA & LEGAL - SEMDY RAMADI,"4134","254",putra.abdulrohman@gmail.com,"089649907536",Sukabumi,"2023-01-03 20:25:26",User,25
+Moch Rizky Rifansyah,Staff,ENG - FERI ARYANTO,"4135","248",rifansyahrizky98@gmail.com,"087802296945",Sukabumi,"2023-01-03 20:25:26",User,26
+Sanra Yasmine,Staff,CORCOM - IDAH,"4138","237",yasminesanra@gmail.com,"08971611664",Sukabumi,"2023-01-03 20:25:26",User,24
+Ghifari Gandi Putra,Staff,FINANCE & ACCOUNTING - A. HAFIDH FAIDHONI,"4265","252",ghifarigandi@gmail.com,"082126911627",Sukabumi,"2023-01-03 20:25:26",User,26
+Fauzi Ramdani,Staff,IT BUSINESS APPLICATION,"4148","258",fauziramdani0112@gmail.com,"0895803501700",Sukabumi,"2023-01-03 20:25:26",User,23
+Arip Hamdani,Staff,PROD AL 4 - TRI YATMOKO,"4158","272",ariphamdani180296@gmail.com,"085746858796",Sukabumi,"2023-01-03 20:25:26",User,28
+M Mulya Taufik,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4159","269",mulyataufik22@gmail.com,"085724782193",Sukabumi,"2023-01-03 20:25:26",User,27
+Rizki Ramadhan,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4160","270",riizkiramadhan.30@gmail.com,"082299696318",Sukabumi,"2023-01-03 20:25:26",User,24
+Muhibudin Siddik,Staff,PROD AL 4 - NATANAEL H GINTING,"4161","271",muhibudinsiddik96@gmail.com,"085794321110",Sukabumi,"2023-01-03 20:25:26",User,28
+Fedwi Surya Asmita,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4162","270",fedwisurya2@gmail.com,"085892866421",Sukabumi,"2023-01-03 20:25:26",User,26
+Nendi ,Staff,PROD OC3 - ASMADA,"4163","288",nendi.rusmawandi12@gmail.com,"089639362420",Sukabumi,"2023-01-03 20:25:26",User,26
+Audy Ervan Gani,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4100","269",audy.ervan.g@student.unjani.ac.id,"089612229793",Sukabumi,"2023-01-17 03:15:25",User,26
+Gilang Cahya,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4289","270",gilangch03@gmail.com,"085283871808",Sukabumi,"2023-01-17 08:43:31",User,31
+Setyo Budi Purnomo,Staff,EHS - ROYNALD JHON BEDA,"2275","241",setyo1539@gmail.com,"082310871983",Sukabumi,"2023-01-22 12:28:47",User,48
+Agan Subandar,Staff,EHS - ROYNALD JHON BEDA,"2328","241",agansbdr@gmail.com,"081318655394",Sukabumi,"2023-01-22 17:23:01",User,36
+Ramlan ,Staff,PROD OC3 - BAMBANG DK,"3054","291",ramlan691868@gmail.com,"0857 2854 9043",Sukabumi,"2023-01-31 13:58:17",User,31
+Galih Trisno Saputra,Asst. Manager,PROCUREMENT,"3137","262",gsaputra@aio.co.id,"08111584500",Sukabumi,"2023-02-09 14:46:42",Juri,37
+Subandi ,Staff,PROD OC3 - BAMBANG DK,"3552","291",subandi7315@gmail.com,"082213306716",Sukabumi,"2023-02-20 21:11:21",User,31
+Anggi Firman,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4199","269",anggifirman2000@gmail.com,"082125637866",Sukabumi,"2023-03-04 09:24:13",User,31
+M Tasrip,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4188","269",mtasyrif14@gmail.com,"085759634810",Sukabumi,"2023-03-06 10:23:10",User,28
+Bayu Nur Shodiq,Staff,PROD AL 4 - NATANAEL H GINTING,"4034","271",nurbayu.2828@gmail.com,"089516161348",Sukabumi,"2023-04-03 12:50:26",User,26
+Agus Budhi Triono,Manager,CORCOM,"0238","236",atriono@aio.co.id,"0811114475",Sukabumi,"2023-06-16 09:16:27",Juri,53
+Lutfia Dara Sabrina,Staff,HCD - FERI,"4268","256",lsabrina@aio.co.id,"088218670034",Sukabumi,"2023-06-26 08:22:11",User,23
+Devia Edika Putri,Staff,SCM - FAUZI NUR ADIANTO,"4267","302",dputri@aio.co.id,"081217564767",Sukabumi,"2023-07-22 17:50:31",User,27
+Indra Setiyanto,Supervisor,ENGINEERING,"0618","242",isetiyanto@aio.co.id,"089608884172",Sukabumi,"2023-07-27 09:38:02",Fasilitator,53
+Fauzi Nur Adianto,Supervisor,SCM - FAUZI NUR ADIANTO,"1187","302",fadianto@aio.co.id,"085710325900",Sukabumi,"2023-08-01 08:28:06",Fasilitator,42
+Ilham Juliana,Staff,CORCOM - IDAH,"4326","237",ijuliana@aio.co.id,"081460983680",Sukabumi,"2023-11-02 17:57:28",User,24
+Wildan Abdul Barri,Staff,IT INFRA STRUCTURE & INDUSTRlAL,"4331","259",wbarri@aio.co.id,"087889295499",Sukabumi,"2023-11-15 07:58:50",User,25
+Shinta Dewi Surya Pertiwi,Staff,QA - NURDIYAN KRISTIAWAN,"4332","296",validation_skb2@aio.co.id,+6282213043377,Sukabumi,"2023-11-20 14:11:35",User,26
+Rozi Syafrizal Rachman,Staff,TECHNICAL - ANDRI MARSHAL SETYAWAN,"4349","307",rrachman@aio.co.id,"08381098810",Sukabumi,"2023-12-01 08:09:41",User,24
+Muhammad Adnan Wafeeq,Staff,IT BUSINESS APPLICATION,"4370","258",adnanwafeeq1@gmail.com,"089687687027",Sukabumi,"2023-12-06 13:37:43",User,22
+Yuki Azfar Maulana Yusup,Staff,PROD GBL - RICHI RIES RIYATNA,"4368","284",azfaryuki1@gmail.com,"0895385110703",Sukabumi,"2023-12-11 09:33:25",User,23
+Ahmad Jaelani,Senior Staff,PROD AL 4 - NATANAEL H GINTING,"1825","271",ahmadjaelani34@gmail.com,"081282032674",Sukabumi,"2023-12-14 03:28:15",User,42
+Winona Anura Dinanti,Staff,ENG - DWI NOVIANTO,"4328","245",wdinanti@aio.co.id,"0811199487",Sukabumi,"2023-12-14 13:50:45",User,30
+Rudy Budiana,Asst. Manager,IT Business Apps,"2162","110",rbudiana@aio.co.id,"08558418153",Sukabumi,"2024-01-05 08:44:48","Fasilitator,Technical Fasilitator,Juri",37
+Taufiq Hidayat,Staff,ENG - MUCH. MUCHIBBIN,"4347","246",thidayat@aio.co.id,"085697098828",Sukabumi,"2024-01-15 10:15:34",User,24
+Saeful Ghani,Staff,QA - LIA CHOIRUNNISA,"4367","293",sghani@aio.co.id,"082128773785",Sukabumi,"2024-01-24 08:20:49",User,25
+Aditya Wardana,Staff,PROD GBL - RICHI RIES RIYATNA,"4411","284",aditwardana17@gmail.com,"081225122227",Sukabumi,"2024-02-01 14:00:44",User,23
+Irfan Satiya Pradana,Staff,ENG - MARWAN PANISA,"4413","250",irfansatiyap@gmail.com,"081394419664",Sukabumi,"2024-02-03 06:10:31",User,25
+Indra Reksa Saputra,Staff,SCM - HENDRA SUKANDAR,"4396","300",admin_fg_east@aio.co.id,"0813-8989-5084",Sukabumi,"2024-02-13 08:17:58",User,31
+Adik Rizki Ramadhan,Staff,SCM - AKBAR TAQWA,"4397","299",admin_fg_yogya@aio.co.id,"0852-1306-8092",Sukabumi,"2024-02-13 08:17:58",User,26
+Servasius Rehan Setiawan,Staff,QA - HARIS FEBRIANSYAH,"4361","295",s.servarehan@gmail.com,"085887541087",Sukabumi,"2024-02-17 03:55:06",User,25
+Baharudin Manggoloyudho,Staff,QA - HARIS FEBRIANSYAH,"4369","295",yudho.baharudin@gmail.com,"089673582572",Sukabumi,"2024-03-05 09:23:24",User,24
+Imam Brilliant Septa Ikhsandria,Staff,IT BUSINESS APPLICATION,"4410","258",iikhsandria@aio.co.id,"082328597334",Sukabumi,"2024-03-07 10:45:35",User,25
+Muhammad Rizqi Al-Faiz,Staff,PROD AL 4 - TRI YATMOKO,"4440","272",rizqialfaiz87@gmail.com,"082233453550",Sukabumi,"2024-03-28 02:01:38",User,24
+Moch. Firdan Fescara,Staff,IT BUSINESS APPLICATION,"4428","258",mfescara@aio.co.id,"089673792583",Sukabumi,"2024-03-28 15:41:15",User,23
+Erwandi Pramudya,Staff,IT BUSINESS APPLICATION,"4429","258",epramudya@aio.co.id,"081573575181",Sukabumi,"2024-04-04 11:23:21",User,23
+Renal Fadilah,Staff,PROD AL 4 - TRI YATMOKO,"4431","272",renalfadilah111@gmail.com,"085659834486",Sukabumi,"2024-04-04 12:24:56",User,24
+Faiz Maulana Rizqy,Staff,PROD AL 4 - MUHAMMAD SYAROFUDDIN,"4432","270",faismaulana00@gmail.com,"081259537699",Sukabumi,"2024-04-04 23:26:49",User,24
+Fendik Jamaludin,Asst. Manager,SCM - HENDRA SUKANDAR,"1315","300",fjamaludin@aio.co.id,"081331652070",Sukabumi,"2024-04-22 08:38:33",Juri,43
+Haikal Yusupiansyah,Staff,PROD AL 4 - NATANAEL H GINTING,"4430","271",haikalyusupiansyah@gmail.com,"082128583764",Sukabumi,"2024-04-29 13:19:57",User,24
+Muhammad Fahridzotul Ustman,Staff,PROD CANPET - EKA SURAHMAT,"4443","278",fillpet2@aio.co.id,"85602780240",Sukabumi,"2024-04-30 09:56:44",User,23
+Refki Febriansyah,Staff,PROD CANPET - EKA SURAHMAT,"4433","278",packingpet2@aio.co.id,"85157047575",Sukabumi,"2024-04-30 09:56:44",User,23
+Muhamad Wildan Sahputra,Staff,PROD CANPET - EKA SURAHMAT,"4444","278",packingpet2@aio.co.id,"85798653387",Sukabumi,"2024-04-30 09:56:44",User,22
+Mochamad Tegar Meika,Staff,PROD CANPET - EKA SURAHMAT,"4445","278",prepet@aio.co.ic,"85872107511",Sukabumi,"2024-04-30 09:56:44",User,20
+Irpan Pebrian Saputra,Staff,PROD CANPET - EKA SURAHMAT,"4446","278",prepet@aio.co.id,"85798707147",Sukabumi,"2024-04-30 09:56:44",User,28
+Heru Sebastian,Staff,PROD CANPET - EKA SURAHMAT,"4447","278",Herusebastian25@gmail.com,"81311862996",Sukabumi,"2024-04-30 09:56:44",User,28
+Shafrizal Nurmuhammad,Staff,PROD CANPET - EKA SURAHMAT,"4456","278",packingpet2@aio.co.id,"81291767806",Sukabumi,"2024-04-30 09:56:44",User,27
+Dezdyta Poszarevac Saputra,Staff,PROD CANPET - ADHY SEPTA WICAKSANA,"4442","275",ci_gmp_pet@aio.co.id,"85885762872",Sukabumi,"2024-04-30 09:56:44",User,22
+Ujang Rohendi,Staff,PROD CANPET - CECEP SUHENDAR,"4434","277",packingcan@aio.co.id,"85692266539",Sukabumi,"2024-04-30 11:18:45",User,22
+Ikhsanur Ridwan,Staff,PROD CANPET - CECEP SUHENDAR,"4455","277",fillcan@aio.co.id,"89625577760",Sukabumi,"2024-04-30 11:18:45",User,24
+Abdillahaq Lanang Pujangga,Staff,PROD AL 4 - NATANAEL H GINTING,"4424","271",abdillahaqlanangp@gmail.com,"082213860665",Sukabumi,"2024-05-04 22:22:23",User,23
+Muslim Arfanshah Harahap,Staff,QA - HARIS FEBRIANSYAH,"4441","295",muslimarfanshahharahap@gmail.com,"89505402347",Sukabumi,"2024-05-20 11:31:06",User,24
+Aditya Nugraha,Staff,QA - HARIS FEBRIANSYAH,"4457","295",adityachadut@gmail.com,"85724657344",Sukabumi,"2024-05-20 16:52:07",User,24
+Ivan Ferdiansyah,Staff,PROCUREMENT - ADITYA PAMUNGKAS,"4458","263",iferdiansyah@aio.co.id,"085287304373",Sukabumi,"2024-05-21 14:33:42",User,25
+Sichabudin Se,Asst. Manager,SCM - BANI RUMPAKA,"2700","304",sichabudin@aio.co.id,"081389725856",Sukabumi,"2024-06-08 06:01:56",Juri,50
+Sichabudin Se,Asst. Manager,SCM - BANI RUMPAKA,"2700","304",sichabudin@aio.co.id,"081389725856",Sukabumi,"2024-06-08 06:01:56",Juri,50
+Indra Yuliana,Staff,PROD AL 4 - NATANAEL H GINTING,"4425","271",indrayuliana0@gmail.com,"087741674180",Sukabumi,"2024-06-13 08:35:37",User,24
+,Senior Staff,KAIZEN,"24072024","310",acahyanugroho@aio.co.id,"082249397725",Sukabumi,"2024-07-24 08:39:12",Tamu,
+Dekita Mustofa,Staff,QA - HARIS FEBRIANSYAH,"4139","295",dekitamustofa@gmail.com,"082116935468",Sukabumi,"2024-07-25 09:43:50",User,27
+Dekita Mustofa,Staff,QA - HARIS FEBRIANSYAH,"4139","295",dekitamustofa@gmail.com,"082116935468",Sukabumi,"2024-07-25 09:43:50",User,27
+Abelard Raishard Hasan,Staff,QA - HARIS FEBRIANSYAH,"4493","295",abeldiki@gmail.com,"082137958866",Sukabumi,"2024-07-31 14:28:06",User,24
+Abelta Mika Setiarini,Staff,PROD ADM & OT - DIDIN,"4508","267",asetiarini@aio.co.id,"085365040449",Sukabumi,"2024-08-14 09:43:48",User,23
+Fauzan Azhima Tasa,Staff,PROD ADM & OT - DIDIN,"4507","267",ftasa@aio.co.id,"082249455545",Sukabumi,"2024-09-06 15:09:11",User,23
+Bagas Santosa Nugraha,Staff,ENG - FERI ARYANTO,"4505","248",bagassantosa62@gmail.com,"081239116775",Sukabumi,"2024-09-19 16:54:29",User,22
+Ismawan Nur Pratama,Staff,PROD SAMIX - ISFAN MUBAIDILA,"4510","280",ismawanpratama97@gmail.com,"087787894241",Sukabumi,"2024-10-06 12:17:37",User,27
+Haristio Sanjaya,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4249","269",haristiosanjaya0@gmail.com,"089512318403",Sukabumi,"2024-11-05 09:15:18",User,27
+Haristio Sanjaya,Staff,PROD AL 4 - ANDRY BILLY WIRAWAN,"4249","269",haristiosanjaya0@gmail.com,"089512318403",Sukabumi,"2024-11-05 09:15:18",User,27
+Ryan Ramdani,Staff,PROD OC3 - ASMADA,"4511","288",ryanramdani1313@gmail.com,"089527181612",Sukabumi,"2024-11-07 09:01:32",User,23
+Irfan Winardi,Staff,FINANCE & ACCOUNTING - TONI IRWANA,"4506","312",iwinardi@aio.co.id,"081215356398",Sukabumi,"2024-11-18 15:14:39",User,22
+Vicko Danendra Setyo Yuwono,Staff,IT BUSINESS APPLICATION,"4530","258",vyuwono@aio.co.id,"088225276819",Sukabumi,"2024-11-25 11:55:16",User,22
+Yohanes Gilang Prasaja Putra,Staff,PROD AL 4 - NATANAEL H GINTING,"4523","271",yohanesgilangpp@gmail.com,"0895637875512",Sukabumi,"2024-11-26 09:00:01",User,22
