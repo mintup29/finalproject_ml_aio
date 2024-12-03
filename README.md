@@ -50,12 +50,12 @@ These results indicate that the forecasting models achieve a **Good Fit** for pr
 ## **Visualization**  
 ### **Example Results**
 - Aspect-based forecasting trend visualization:
-  ![Aspect Forecasting]([image1_placeholder](https://drive.google.com/file/d/15e-KvQG_ioCCBZPMuLm5ckTJcwOZOqF-/view?usp=drive_link))
-  ![Aspect2 Forecasting]([image2_placeholder](https://drive.google.com/file/d/1wmeQN4mB5RKYMAnKs40fK6taAlH4W2kB/view?usp=drive_link))
+  ![Aspect Forecasting]([image1_placeholder](https://drive.google.com/uc?id=15e-KvQG_ioCCBZPMuLm5ckTJcwOZOqF-))
+  ![Aspect2 Forecasting]([image2_placeholder](https://drive.google.com/uc?id=1wmeQN4mB5RKYMAnKs40fK6taAlH4W2kB))
 
 - Clustering-based trend visualization:
-  ![Clustering Forecasting]([image3_placeholder](https://drive.google.com/file/d/1CoqF8aCDHfUrhMCe4nbsgoC0X19H8wEW/view?usp=drive_link))
-  ![Clustering2 Forecasting]([image4_placeholder](https://drive.google.com/file/d/1d68B4Mz01zcJDiivIX67QQ9g69o014oc/view?usp=drive_link))
+  ![Clustering Forecasting]([image3_placeholder](https://drive.google.com/uc?id=1CoqF8aCDHfUrhMCe4nbsgoC0X19H8wEW))
+  ![Clustering2 Forecasting]([image4_placeholder](https://drive.google.com/uc?id=1d68B4Mz01zcJDiivIX67QQ9g69o014oc))
 
 
 ---
@@ -67,10 +67,5 @@ These results indicate that the forecasting models achieve a **Good Fit** for pr
 - **XGBoost**  
 - **Data Visualization**: Matplotlib, Seaborn  
 - **Jupyter Notebook** (for experimentation and prototyping)
-
----
-
-## **Acknowledgments**  
-This project was created as part of the **Idea Box 2023-2024 Period** initiative under the Kaizen Department. Special thanks to all team members for their collaboration and contribution.
 
 ---
